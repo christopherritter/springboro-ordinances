@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.conwaygreene.com	TRUE	/	FALSE	1999999999	Springboro/lpext.dll/uid	51BF255D
-www.conwaygreene.com	TRUE	/	FALSE	1999999999	Springboro/lpext.dll/sid	51BF255E
-www.conwaygreene.com	TRUE	/	FALSE	1999999999	Springboro/lpext.dll/doc	Springboro%2F561c%2F5700%2F59e5%2F59ff
-
