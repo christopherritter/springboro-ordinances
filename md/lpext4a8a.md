@@ -1,8 +1,9 @@
-[Springboro, Ohio](indexee20.html)
-==================================
+[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
+=====================================================
 
-[PART FOUR - TRAFFIC CODE](1b19a412.html) [TITLE EIGHT -
-Parking](267ba412.html)
+[PART FOUR - TRAFFIC CODE](1b19a412.html)
+
+[TITLE EIGHT - Parking](267ba412.html)
 
 * * * * *
 

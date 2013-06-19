@@ -1,8 +1,9 @@
-[Springboro, Ohio](indexee20.html)
-==================================
+[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
+=====================================================
 
-[PART TWO - ADMINISTRATION CODE](1505a412.html) [TITLE TEN -
-Judiciary](1ae0a412.html)
+[PART TWO - ADMINISTRATION CODE](1505a412.html)
+
+[TITLE TEN - Judiciary](1ae0a412.html)
 
 * * * * *
 

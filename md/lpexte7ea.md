@@ -1,7 +1,9 @@
-[Springboro, Ohio](indexee20.html)
-==================================
+[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
+=====================================================
 
-[CHARTER](1289a412.html) [ARTICLE X PERSONNEL](1467a412.html)
+[CHARTER](1289a412.html)
+
+[ARTICLE X PERSONNEL](1467a412.html)
 
 * * * * *
 

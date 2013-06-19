@@ -1,12 +1,17 @@
-[Springboro, Ohio](indexee20.html)
-==================================
+[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
+=====================================================
 
 [PART TEN - STREETS, UTILITIES AND PUBLIC SERVICES CODE](407fa412.html)
-[TITLE TWO - Street and Sidewalk Areas](409ca412.html) [CHAPTER 1020
-Streets](40a6a412.html)
+
+[TITLE TWO - Street and Sidewalk Areas](409ca412.html)
+
+[CHAPTER 1020 Streets](40a6a412.html)
 
 * * * * *
 
 [1020.01 CONDITIONS PRECEDENT TO IMPROVING STREETS.](40b4a412.html)
-[1020.02 MAINTENANCE OF STATE HIGHWAYS.](40b7a412.html) [1020.03 SNOW
-AND ICE CONTROL POLICY FOR UNACCEPTED STREETS.](40bda412.html)
+
+[1020.02 MAINTENANCE OF STATE HIGHWAYS.](40b7a412.html)
+
+[1020.03 SNOW AND ICE CONTROL POLICY FOR UNACCEPTED
+STREETS.](40bda412.html)

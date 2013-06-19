@@ -52,15 +52,18 @@ certify such case to a court of record as provided in Ohio R.C. 2937.08.
 Ohio R.C. 2945.17 provides that an accused has a right to be tried by a
 jury at any trial in any court for the violation of any Ohio statute or
 of any Springboro ordinance, except in cases in which the penalty
-involved does not exceed a fine of one hundred dollars ($100.00).
+involved does not exceed a fine of one hundred dollars (\$100.00).
 
 The Supreme Court of Ohio, on December 4, 1967, promulgated "Rules of
 Practice and Procedure in Traffic Cases For All Courts Inferior to
 Common Pleas," the adoption of which became mandatory prior to March 2,
 1969. Amended Rules, referred to as the Ohio Traffic Rules, became
 effective on January 1, 1975.
+
 [**290.01**](1b01adbe.html)**Dispatcher-Clerk.**
+
 [**290.02**](1b05687c.html)**Court costs.**
+
 [**290.03**](1b0d205e.html)**Mayor's Court Improvement Fund.**
 
 CROSS REFERENCES
