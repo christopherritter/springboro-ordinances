@@ -21,7 +21,7 @@ under appropriate State law if:
 ​(1) Unauthorized use of property is committed for the purpose of
 devising or executing a scheme to defraud or to obtain property or
 services, and if the value of the property is one thousand dollars
-(\$1,000) or more; or
+($1,000) or more; or
 
 ​(2) If the victim of the offense is an elderly person or disabled
 adult.

@@ -20,7 +20,7 @@ raffle, each punch board game, and each game of chance conducted by the
 charitable organization, the total prizes awarded from each game of
 instant bingo by serial number, and the name, address, and social
 security number of all persons who are winners of prizes of six hundred
-dollars (\$600.00) or more in value;
+dollars ($600.00) or more in value;
 
 ​(4) An itemized list of the recipients of the net profit of the bingo
 or game of chance, including the name and address of each recipient to
