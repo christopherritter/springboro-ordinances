@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART FOURTEEN - BUILDING AND HOUSING CODE](561ca412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 1440 Accessory Buildings](5710a412.html)
 
-* * * * *
+---
 
 [1440.01 CONSTRUCTION STANDARDS.](571ba412.html)
 

@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART TWO - ADMINISTRATION CODE](1505a412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 280 Tree Authority](190da412.html)
 
-* * * * *
+---
 
 [280.01 DEFINITIONS.](1926a412.html)
 

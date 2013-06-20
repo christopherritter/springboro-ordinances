@@ -1,5 +1,10 @@
-432.05 OVERTAKING, PASSING TO LEFT OF CENTERLINE.
-=================================================
+---
+layout: default 
+title: 432.05 OVERTAKING, PASSING TO LEFT OF CENTERLINE.
+---
+
+{{ page.title }}
+================
 
 ​(a) No vehicle shall be driven to the left of the center of the roadway
 in overtaking and passing traffic proceeding in the same direction,

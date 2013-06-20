@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART TEN - STREETS, UTILITIES AND PUBLIC SERVICES CODE](407fa412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 1042 Water](42cca412.html)
 
-* * * * *
+---
 
 [1042.01 DEFINITIONS.](42faa412.html)
 

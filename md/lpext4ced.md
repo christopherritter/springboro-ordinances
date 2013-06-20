@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART FOURTEEN - BUILDING AND HOUSING CODE](561ca412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 1464 Permits, Inspections and Fees](58d3a412.html)
 
-* * * * *
+---
 
 [1464.01 AUTHORITY OF COUNTY DEPARTMENT OF BUILDING
 INSPECTION.](58e3a412.html)

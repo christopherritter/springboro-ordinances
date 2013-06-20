@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART FOUR - TRAFFIC CODE](1b19a412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 440 Commercial and Heavy Vehicles](2531a412.html)
 
-* * * * *
+---
 
 [440.01 LOAD LIMITS.](254aa412.html)
 

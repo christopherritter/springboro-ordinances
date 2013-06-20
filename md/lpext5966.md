@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART EIGHT - BUSINESS REGULATION AND TAXATION CODE](394aa412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 880 Earned Income Tax](3f1da412.html)
 
-* * * * *
+---
 
 [880.01 PURPOSES; LEVY OF TAX.](3f3ca412.html)
 

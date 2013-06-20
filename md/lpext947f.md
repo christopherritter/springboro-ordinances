@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART FOURTEEN - BUILDING AND HOUSING CODE](561ca412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 1472 Outdoor Antennas](5950a412.html)
 
-* * * * *
+---
 
 [1472.01 DEFINITIONS.](5958a412.html)
 

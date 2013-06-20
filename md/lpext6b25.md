@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART SIX - GENERAL OFFENSES CODE](28a2a412.html)
 
 [CHAPTER 660 Safety, Sanitation and Health](353fa412.html)
 
-* * * * *
+---
 
 [660.01 VENTING OF HEATERS AND BURNERS.](3564a412.html)
 

@@ -1,5 +1,11 @@
-432.17 OPERATION OF VEHICLE AT STOP AND YIELD SIGNS.
-====================================================
+---
+layout: default 
+title: 432.17 OPERATION OF VEHICLE AT STOP AND YIELD
+SIGNS.
+---
+
+{{ page.title }}
+================
 
 ​(a) The driver of a vehicle approaching a yield sign shall slow down to
 a speed reasonable for the existing conditions and, if required for

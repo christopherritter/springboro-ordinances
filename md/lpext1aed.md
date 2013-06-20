@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART FOURTEEN - BUILDING AND HOUSING CODE](561ca412.html)
 
 [TITLE TWO - Building Standards](5638a412.html)
 
-* * * * *
+---
 
 [CHAPTER 1420 Building Construction and Property Maintenance
 Codes](5640a412.html)

@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART TEN - STREETS, UTILITIES AND PUBLIC SERVICES CODE](407fa412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 1028 Rights of Way](413aa412.html)
 
-* * * * *
+---
 
 [1028.01 FINDINGS AND PURPOSE.](4164a412.html)
 

@@ -1,5 +1,10 @@
-1278.04 NONCONFORMING LOTS OF RECORD.
-=====================================
+---
+layout: default 
+title: 1278.04 NONCONFORMING LOTS OF RECORD.
+---
+
+{{ page.title }}
+================
 
 In any district in which single-family dwellings are permitted, a
 single-family dwelling and any customary accessory buildings may be

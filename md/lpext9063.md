@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART TWO - ADMINISTRATION CODE](1505a412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 240 Department of Service](1802a412.html)
 
-* * * * *
+---
 
 [240.01 ESTABLISHMENT OF POSITION OF DIRECTOR.](1811a412.html)
 

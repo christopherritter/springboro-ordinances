@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART SIX - GENERAL OFFENSES CODE](28a2a412.html)
 
 [CHAPTER 642 Offenses Relating to Property](3203a412.html)
 
-* * * * *
+---
 
 [642.01 DEFINITIONS.](3238a412.html)
 

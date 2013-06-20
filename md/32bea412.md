@@ -1,5 +1,11 @@
-642.08 REMOVAL OF IMPROVEMENTS FROM REAL PROPERTY.
-==================================================
+---
+layout: default 
+title: 642.08 REMOVAL OF IMPROVEMENTS FROM REAL
+PROPERTY.
+---
+
+{{ page.title }}
+================
 
 ​(a) No person having an interest in real property, buyer, lessee,
 tenant or occupant of real property, knowing that such real property is

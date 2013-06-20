@@ -1,5 +1,7 @@
-[Springboro, Ohio](index.html)
+---
+layout: default 
+title: [Springboro, Ohio](index.html)
 
-* * * * *
+---
 
 Springboro, Ohio

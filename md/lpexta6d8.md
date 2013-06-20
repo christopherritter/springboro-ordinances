@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART EIGHT - BUSINESS REGULATION AND TAXATION CODE](394aa412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 840 Sexually Oriented Businesses](3c52a412.html)
 
-* * * * *
+---
 
 [840.01 PURPOSE AND INTENT.](3c73a412.html)
 

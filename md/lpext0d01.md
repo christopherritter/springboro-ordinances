@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART TWELVE - PLANNING AND ZONING CODE](465ba412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 1262 Administration, Enforcement and Penalty](4cfaa412.html)
 
-* * * * *
+---
 
 [1262.01 BUILDING AND ZONING INSPECTOR; DUTIES.](4d24a412.html)
 

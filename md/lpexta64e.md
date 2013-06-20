@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART TWO - ADMINISTRATION CODE](1505a412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 244 Employees Generally](1845a412.html)
 
-* * * * *
+---
 
 [244.00 POLICY MANUAL.](185aa412.html)
 

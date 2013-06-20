@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART TWO - ADMINISTRATION CODE](1505a412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 202 Codified Ordinances](153aa412.html)
 
-* * * * *
+---
 
 [202.01 DESIGNATION; CITATION; HEADINGS.](1551a412.html)
 

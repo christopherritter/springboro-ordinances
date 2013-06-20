@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART FOURTEEN - BUILDING AND HOUSING CODE](561ca412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 1476 Fire Insurance Trust Fund](59b1a412.html)
 
-* * * * *
+---
 
 [1476.01 ESTABLISHED.](59b8a412.html)
 

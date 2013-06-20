@@ -1,5 +1,11 @@
-1042.30 NEW HOMES TO INSTALL BACKFLOW PREVENTION DEVICE.
-========================================================
+---
+layout: default 
+title: 1042.30 NEW HOMES TO INSTALL BACKFLOW PREVENTION
+DEVICE.
+---
+
+{{ page.title }}
+================
 
 ​(a) All new residential dwellings shall have installed a backflow
 prevention device on all water service laterals by the property owner,

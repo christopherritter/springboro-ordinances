@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART SIX - GENERAL OFFENSES CODE](28a2a412.html)
 
 [CHAPTER 672 Weapons and Explosives](3764a412.html)
 
-* * * * *
+---
 
 [672.01 DEFINITIONS.](377da412.html)
 

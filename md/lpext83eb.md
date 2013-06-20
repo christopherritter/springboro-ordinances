@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART SIX - GENERAL OFFENSES CODE](28a2a412.html)
 
 [CHAPTER 612 Liquor Control](2af1a412.html)
 
-* * * * *
+---
 
 [612.01 DEFINITIONS.](2b0fa412.html)
 

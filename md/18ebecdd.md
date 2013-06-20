@@ -1,5 +1,11 @@
-276.03 CONTRACTS FOR SERVICES; AUTHORITY OF MANAGER.
-====================================================
+---
+layout: default 
+title: 276.03 CONTRACTS FOR SERVICES; AUTHORITY OF
+MANAGER.
+---
+
+{{ page.title }}
+================
 
 ​(a) The Manager is hereby authorized to enter into various contracts
 for services, as authorized by the Park and Recreation Board, that are

@@ -1,5 +1,10 @@
-1229.09 MINIMUM MAINTENANCE REQUIREMENT.
-========================================
+---
+layout: default 
+title: 1229.09 MINIMUM MAINTENANCE REQUIREMENT.
+---
+
+{{ page.title }}
+================
 
 The owner of a Protected Property shall provide sufficient maintenance
 and upkeep for such structure to ensure its protection from hazards and

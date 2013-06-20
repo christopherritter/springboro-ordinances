@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [CHARTER](1289a412.html)
 
 [ARTICLE VII ADMINISTRATIVE DEPARTMENTS](13d8a412.html)
 
-* * * * *
+---
 
 [Section 7.01 Creation of Departments.](13daa412.html)
 

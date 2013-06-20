@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART EIGHT - BUSINESS REGULATION AND TAXATION CODE](394aa412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 884 Hotel Excise Tax](4026a412.html)
 
-* * * * *
+---
 
 [884.01 DEFINITIONS.](4032a412.html)
 

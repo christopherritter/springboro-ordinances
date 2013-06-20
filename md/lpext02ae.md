@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART TEN - STREETS, UTILITIES AND PUBLIC SERVICES CODE](407fa412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 1022 Excavations](40c8a412.html)
 
-* * * * *
+---
 
 [1022.01 PERMIT REQUIRED.](40d9a412.html)
 

@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [CHARTER](1289a412.html)
 
 [ARTICLE VI THE MANAGER](13b7a412.html)
 
-* * * * *
+---
 
 [Section 6.01 Appointment; Qualifications; Compensation.](13b9a412.html)
 

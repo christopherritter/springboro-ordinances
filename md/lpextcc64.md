@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART FOURTEEN - BUILDING AND HOUSING CODE](561ca412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 1424 Insulation Requirements](56d1a412.html)
 
-* * * * *
+---
 
 [1424.01 ADOPTION.](56dda412.html)
 

@@ -1,12 +1,14 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART SIX - GENERAL OFFENSES CODE](28a2a412.html)
 
 [CHAPTER 606 General Provisions; Administration and
 Enforcement](28c6a412.html)
 
-* * * * *
+---
 
 [606.01 DEFINITIONS.](28f4a412.html)
 

@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART EIGHT - BUSINESS REGULATION AND TAXATION CODE](394aa412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 888 Motor Vehicle License Tax](4055a412.html)
 
-* * * * *
+---
 
 [888.01 TAX LEVY AND PURPOSE.](405ea412.html)
 

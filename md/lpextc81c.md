@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART TWO - ADMINISTRATION CODE](1505a412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 290 Mayor's Court](1ae6a412.html)
 
-* * * * *
+---
 
 [290.01 DISPATCHER-CLERK.](1b01a412.html)
 

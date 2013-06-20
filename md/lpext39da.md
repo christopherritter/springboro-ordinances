@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART TEN - STREETS, UTILITIES AND PUBLIC SERVICES CODE](407fa412.html)
 
@@ -8,7 +10,7 @@
 [CHAPTER 1062 Garbage and Rubbish Collection and
 Disposal](45cba412.html)
 
-* * * * *
+---
 
 [1062.01 OPEN CONTAINERS; FILTHY ACCUMULATIONS.](45e2a412.html)
 

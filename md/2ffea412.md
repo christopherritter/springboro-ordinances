@@ -1,5 +1,10 @@
-630.15 SKILL-BASED AMUSEMENT MACHINES.
-======================================
+---
+layout: default 
+title: 630.15 SKILL-BASED AMUSEMENT MACHINES.
+---
+
+{{ page.title }}
+================
 
 ​(a) (1) No person shall give to another person any item described in
 Section [630.01](2e6c03fb.html)(vv)(1), (2), (3), or (4) in exchange for

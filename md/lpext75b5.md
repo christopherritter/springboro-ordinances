@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [CHARTER](1289a412.html)
 
 [ARTICLE V LEGISLATION](1382a412.html)
 
-* * * * *
+---
 
 [Section 5.01 Ordinances and Resolutions.](1384a412.html)
 

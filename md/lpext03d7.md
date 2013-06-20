@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART SIX - GENERAL OFFENSES CODE](28a2a412.html)
 
 [CHAPTER 678 Weeds and Litter](385da412.html)
 
-* * * * *
+---
 
 [678.01 NOXIOUS WEEDS PROHIBITED.](3872a412.html)
 

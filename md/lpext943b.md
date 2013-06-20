@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART TWO - ADMINISTRATION CODE](1505a412.html)
 
 [TITLE EIGHT - Boards and Commissions](189fa412.html)
 
-* * * * *
+---
 
 [CHAPTER 270 Personnel Board](18ada412.html)
 

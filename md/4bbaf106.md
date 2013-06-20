@@ -1,5 +1,11 @@
-1248.09 PRESERVATION OF NATURAL FEATURES AND AMENITIES.
-=======================================================
+---
+layout: default 
+title: 1248.09 PRESERVATION OF NATURAL FEATURES AND
+AMENITIES.
+---
+
+{{ page.title }}
+================
 
 ​(a) General*.* Existing natural features that would add value to
 residential development or to the City as a whole shall be preserved if
@@ -17,7 +23,10 @@ Chapter [280](190dab57.html) of the Codified Ordinances.
 (Ord. 04-41. Passed 8-19-04.)
 
 1248.10 NONRESIDENTIAL SUBDIVISIONS.
-====================================
+---
+
+{{ page.title }}
+================
 
 ​(a) General. If a proposed subdivision includes land that is zoned for
 commercial or industrial purposes, the layout of the subdivision with

@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART SIX - GENERAL OFFENSES CODE](28a2a412.html)
 
 [CHAPTER 618 Animals](2ba7a412.html)
 
-* * * * *
+---
 
 [618.01 DOGS AND OTHER ANIMALS RUNNING AT LARGE.](2be0a412.html)
 

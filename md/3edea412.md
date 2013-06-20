@@ -1,5 +1,10 @@
-858.02 LICENSE REQUIRED; FEE; TERM.
-===================================
+---
+layout: default 
+title: 858.02 LICENSE REQUIRED; FEE; TERM.
+---
+
+{{ page.title }}
+================
 
 Every temporary purchaser shall obtain a license before engaging in
 business and shall pay a fee therefor as set forth in Appendix A of

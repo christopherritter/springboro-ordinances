@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART FOUR - TRAFFIC CODE](1b19a412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 416 Pedestrians](1e26a412.html)
 
-* * * * *
+---
 
 [416.01 RIGHT OF WAY IN CROSSWALK.](1e3ea412.html)
 

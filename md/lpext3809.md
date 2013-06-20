@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART SIXTEEN - FIRE PREVENTION CODE](5a09a412.html)
 
 [CHAPTER 1630 Open Burning](5b23a412.html)
 
-* * * * *
+---
 
 [1630.01 DEFINITIONS.](5b34a412.html)
 

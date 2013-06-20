@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART SIX - GENERAL OFFENSES CODE](28a2a412.html)
 
 [CHAPTER 668 Unclean Habitations](370ea412.html)
 
-* * * * *
+---
 
 [668.01 RESPONSIBILITY OF OWNERS AND OCCUPANTS
 GENERALLY.](3726a412.html)

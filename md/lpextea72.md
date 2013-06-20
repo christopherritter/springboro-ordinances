@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART FOUR - TRAFFIC CODE](1b19a412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 438 Safety and Equipment](2379a412.html)
 
-* * * * *
+---
 
 [438.01 DRIVING UNSAFE VEHICLES.](23a8a412.html)
 

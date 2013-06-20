@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART FOUR - TRAFFIC CODE](1b19a412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 446 School Buses](265aa412.html)
 
-* * * * *
+---
 
 [446.01 DECALS AND IDENTIFYING NUMBERS REQUIRED.](2668a412.html)
 

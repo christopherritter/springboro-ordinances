@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART FOUR - TRAFFIC CODE](1b19a412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 442 Commercial Drivers](25d4a412.html)
 
-* * * * *
+---
 
 [442.01 DEFINITIONS.](25e5a412.html)
 

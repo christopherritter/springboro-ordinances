@@ -1,5 +1,10 @@
-630.04 PUBLIC GAMING.
-=====================
+---
+layout: default 
+title: 630.04 PUBLIC GAMING.
+---
+
+{{ page.title }}
+================
 
 ​(a) No person, while at a hotel, restaurant, tavern, store, arena,
 hall, or other place of public accommodation, business, amusement, or

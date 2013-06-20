@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART SIX - GENERAL OFFENSES CODE](28a2a412.html)
 
 [CHAPTER 636 Offenses Relating to Persons](304ca412.html)
 
-* * * * *
+---
 
 [636.01 NEGLIGENT HOMICIDE.](3075a412.html)
 

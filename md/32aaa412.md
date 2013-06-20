@@ -1,5 +1,10 @@
-642.06 INJURING VINES, BUSHES, TREES OR CROPS.
-==============================================
+---
+layout: default 
+title: 642.06 INJURING VINES, BUSHES, TREES OR CROPS.
+---
+
+{{ page.title }}
+================
 
 ​(a) No person, without privilege to do so, shall recklessly cut down,
 destroy, girdle or otherwise injure a vine, bush, shrub, sapling, tree

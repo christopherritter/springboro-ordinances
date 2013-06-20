@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART EIGHT - BUSINESS REGULATION AND TAXATION CODE](394aa412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 822 Junk Yards and Automobile Graveyards](39bda412.html)
 
-* * * * *
+---
 
 [822.01 OPERATION OF JUNK YARD OR AUTOMOBILE GRAVEYARD
 PROHIBITED.](39c8a412.html)

@@ -1,5 +1,10 @@
-TABLE C - VACATING OF STREETS AND ALLEYS
-========================================
+---
+layout: default 
+title: TABLE C - VACATING OF STREETS AND ALLEYS
+---
+
+{{ page.title }}
+================
 
 Ord. No. Date Description
 

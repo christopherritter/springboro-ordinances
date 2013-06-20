@@ -1,5 +1,10 @@
-618.05 CRUELTY TO ANIMALS GENERALLY.
-====================================
+---
+layout: default 
+title: 618.05 CRUELTY TO ANIMALS GENERALLY.
+---
+
+{{ page.title }}
+================
 
 ​(a) No person shall:
 

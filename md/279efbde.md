@@ -1,5 +1,11 @@
-474.01 CODE APPLICATION TO BICYCLES AND MOTORIZED BICYCLES.
-===========================================================
+---
+layout: default 
+title: 474.01 CODE APPLICATION TO BICYCLES AND MOTORIZED
+BICYCLES.
+---
+
+{{ page.title }}
+================
 
 ​(a) The provisions of this Traffic Code which are applicable to
 bicycles and motorized

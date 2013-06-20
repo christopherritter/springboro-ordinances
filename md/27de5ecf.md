@@ -1,5 +1,10 @@
-474.06 RIDING BICYCLES UPON SIDEWALKS.
-======================================
+---
+layout: default 
+title: 474.06 RIDING BICYCLES UPON SIDEWALKS.
+---
+
+{{ page.title }}
+================
 
 ​(a) No person shall drive any vehicle, other than a bicycle, upon a
 sidewalk or sidewalk area except upon a permanent or duly authorized

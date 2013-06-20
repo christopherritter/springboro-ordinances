@@ -1,7 +1,9 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
-* * * * *
+---
 
 [DISCLAIMER](1a412.html)
 

@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART TEN - STREETS, UTILITIES AND PUBLIC SERVICES CODE](407fa412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 1050 Storm Water](457ca412.html)
 
-* * * * *
+---
 
 [1050.01 STORM WATER MANAGEMENT UTILITY.](4584a412.html)
 

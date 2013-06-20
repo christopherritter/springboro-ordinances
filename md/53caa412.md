@@ -1,5 +1,10 @@
-1272.15 PRE-APPLICATION CONFERENCE RECOMMENDED.
-===============================================
+---
+layout: default 
+title: 1272.15 PRE-APPLICATION CONFERENCE RECOMMENDED.
+---
+
+{{ page.title }}
+================
 
 To obtain information regarding the PUD approval process, requirements,
 and other information relative to the PUD application, each applicant is

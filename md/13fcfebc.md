@@ -1,5 +1,10 @@
-Section 7.09 Department of Law.
-===============================
+---
+layout: default 
+title: Section 7.09 Department of Law.
+---
+
+{{ page.title }}
+================
 
 There shall be a Department of Law, the head of which shall be the Law
 Director. The Law Director shall be an attorney-at-law, qualified to

@@ -1,5 +1,10 @@
-618.57 PERMIT REQUIRED.
-=======================
+---
+layout: default 
+title: 618.57 PERMIT REQUIRED.
+---
+
+{{ page.title }}
+================
 
 ​(a) No person under Section [618.51](2cbad659.html), shall allow such
 animal to remain within the City unless and until he/she has first

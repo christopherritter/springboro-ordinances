@@ -1,5 +1,11 @@
-438.04 TAIL LIGHT; ILLUMINATION OF REAR LICENSE PLATE.
-======================================================
+---
+layout: default 
+title: 438.04 TAIL LIGHT; ILLUMINATION OF REAR LICENSE
+PLATE.
+---
+
+{{ page.title }}
+================
 
 ​(a) Every motor vehicle, trailer, semitrailer, pole trailer or vehicle
 which is being drawn at the end of a train of vehicles shall be equipped

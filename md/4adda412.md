@@ -1,5 +1,10 @@
-1246.06 DEFERRAL OF REQUIRED IMPROVEMENTS.
-==========================================
+---
+layout: default 
+title: 1246.06 DEFERRAL OF REQUIRED IMPROVEMENTS.
+---
+
+{{ page.title }}
+================
 
 ​(a) The Planning Commission may defer or waive at the time of record
 plan approval, subject to appropriate conditions, the provision of any

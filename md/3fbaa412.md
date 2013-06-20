@@ -1,5 +1,11 @@
-880.08 POWERS AND DUTIES OF THE ADMINISTRATOR; ENFORCEMENT.
-===========================================================
+---
+layout: default 
+title: 880.08 POWERS AND DUTIES OF THE ADMINISTRATOR;
+ENFORCEMENT.
+---
+
+{{ page.title }}
+================
 
 ​(a) The Administrator shall receive the tax imposed by this chapter in
 the manner prescribed in this chapter from the taxpayers, shall keep an

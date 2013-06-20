@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART TWELVE - PLANNING AND ZONING CODE](465ba412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 1274 Mobile Home Parks](5467a412.html)
 
-* * * * *
+---
 
 [1274.01 LOCATION; STATUS AS CONDITIONAL USE AND PLANNED UNIT
 DEVELOPMENT.](5474a412.html)

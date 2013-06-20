@@ -1,5 +1,10 @@
-826.18 NONCONFORMING SIGNS.
-===========================
+---
+layout: default 
+title: 826.18 NONCONFORMING SIGNS.
+---
+
+{{ page.title }}
+================
 
 Any sign lawfully existing on the effective date of this chapter which
 does not conform to all the standards and regulations of this chapter

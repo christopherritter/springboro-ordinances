@@ -1,5 +1,11 @@
-1262.28 APPLICATION FOR CHANGE OF ZONING DISTRICTS; DEPOSIT.
-============================================================
+---
+layout: default 
+title: 1262.28 APPLICATION FOR CHANGE OF ZONING
+DISTRICTS; DEPOSIT.
+---
+
+{{ page.title }}
+================
 
 Any person who desires a change of zoning districts shall file an
 application therefor with the Building and Zoning Inspector and shall

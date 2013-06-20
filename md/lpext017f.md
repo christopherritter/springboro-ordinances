@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [CHARTER](1289a412.html)
 
 [ARTICLE XIII TRANSITIONAL PROVISIONS](14b0a412.html)
 
-* * * * *
+---
 
 [Section 13.01 Effective Date.](14b2a412.html)
 

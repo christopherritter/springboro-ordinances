@@ -1,5 +1,10 @@
-Section 13.14 Mayor's Court Magistrate.
-=======================================
+---
+layout: default 
+title: Section 13.14 Mayor's Court Magistrate.
+---
+
+{{ page.title }}
+================
 
 ​(a) The Springboro Mayor's Court shall have all powers conferred by the
 Ohio Revised Code as amended from time to time.

@@ -1,5 +1,11 @@
-280.07 CARE OF MONARCH TREES AND TREES ON PUBLIC PROPERTY.
-==========================================================
+---
+layout: default 
+title: 280.07 CARE OF MONARCH TREES AND TREES ON PUBLIC
+PROPERTY.
+---
+
+{{ page.title }}
+================
 
 ​(a) Construction Site Precautions. The following protective techniques
 shall be followed during construction activity which may impact a

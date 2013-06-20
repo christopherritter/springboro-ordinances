@@ -1,5 +1,10 @@
-660.15 DRAINING SLOPS.
-======================
+---
+layout: default 
+title: 660.15 DRAINING SLOPS.
+---
+
+{{ page.title }}
+================
 
 ​(a) No person shall drain, cause to be drained or allow to drain from
 any property occupied by him or her, any kitchen slops or other greasy

@@ -1,5 +1,10 @@
-416.02 RIGHT OF WAY OF BLIND PERSON.
-====================================
+---
+layout: default 
+title: 416.02 RIGHT OF WAY OF BLIND PERSON.
+---
+
+{{ page.title }}
+================
 
 ​(a) As used in this section "blind person" or "blind pedestrian" means
 a person having not more than 20/200 visual acuity in the better eye

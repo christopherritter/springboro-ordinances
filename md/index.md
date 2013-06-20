@@ -1,5 +1,10 @@
-CODIFIED ORDINANCES OF SPRINGBORO, OHIO
-=======================================
+---
+layout: default 
+title: CODIFIED ORDINANCES OF SPRINGBORO, OHIO
+---
+
+{{ page.title }}
+================
 
 [**CHARTER**](1289a412.html)
 
@@ -20,7 +25,7 @@ CODE**](407fa412.html)
 
 [**PART SIXTEEN - FIRE PREVENTION CODE**](5a09a412.html)
 
-* * * * *
+---
 
 [**DISCLAIMER**](1a412.html)
 

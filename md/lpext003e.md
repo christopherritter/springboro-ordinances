@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [CHARTER](1289a412.html)
 
 [ARTICLE IV THE COUNCIL](1339a412.html)
 
-* * * * *
+---
 
 [Section 4.01 Powers, Number, Selection and Term.](133ba412.html)
 

@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART SIX - GENERAL OFFENSES CODE](28a2a412.html)
 
 [CHAPTER 646 Park Conduct](33f1a412.html)
 
-* * * * *
+---
 
 [646.01 RULES AND REGULATIONS; DEFINITIONS.](340ba412.html)
 

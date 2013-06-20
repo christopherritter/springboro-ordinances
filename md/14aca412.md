@@ -1,5 +1,10 @@
-Section 12.07 Annual Report.
-============================
+---
+layout: default 
+title: Section 12.07 Annual Report.
+---
+
+{{ page.title }}
+================
 
 The Council may annually or periodically, as it may determine, publish a
 comprehensive report to the people of Springboro covering the activities

@@ -1,5 +1,10 @@
-856.08 SUSPENSION OR REVOCATION OF LICENSES.
-============================================
+---
+layout: default 
+title: 856.08 SUSPENSION OR REVOCATION OF LICENSES.
+---
+
+{{ page.title }}
+================
 
 Whenever a licensee under this chapter fails, for sixty days, to make a
 reasonable or consistent effort to operate a taxicab, the Manager or

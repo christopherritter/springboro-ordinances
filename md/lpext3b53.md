@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART FOURTEEN - BUILDING AND HOUSING CODE](561ca412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 1460 Numbering of Buildings](58b1a412.html)
 
-* * * * *
+---
 
 [1460.01 MARKING NUMBERS ON SIDEWALKS, STREETS AND
 CURBS.](58bba412.html)

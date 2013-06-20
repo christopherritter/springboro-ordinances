@@ -1,5 +1,10 @@
-1222.01 PLAN ADOPTED.
-=====================
+---
+layout: default 
+title: 1222.01 PLAN ADOPTED.
+---
+
+{{ page.title }}
+================
 
 ​(a) Council of the City of Springboro hereby approves and adopts the
 Community Development Guide Plan prepared by Bassett Associates and

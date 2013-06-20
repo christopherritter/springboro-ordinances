@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART FOUR - TRAFFIC CODE](1b19a412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 412 Street Obstructions and Special Uses](1d45a412.html)
 
-* * * * *
+---
 
 [412.01 PLACING INJURIOUS MATERIAL OR OBSTRUCTION IN
 STREET.](1d57a412.html)

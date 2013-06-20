@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART TWO - ADMINISTRATION CODE](1505a412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 236 Department of Finance](1783a412.html)
 
-* * * * *
+---
 
 [236.01 DIRECTOR OF FINANCE; FUNCTIONS OF DEPARTMENT.](179ba412.html)
 

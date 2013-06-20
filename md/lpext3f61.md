@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART TWELVE - PLANNING AND ZONING CODE](465ba412.html)
 
@@ -8,7 +10,7 @@
 [CHAPTER 1240 General Provisions, Authority and
 Enforcement](48d0a412.html)
 
-* * * * *
+---
 
 [1240.01 TITLE.](48e8a412.html)
 

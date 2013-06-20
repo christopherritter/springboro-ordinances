@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [CHARTER](1289a412.html)
 
 [ARTICLE VIII FINANCE, TAXATION AND DEBT](1400a412.html)
 
-* * * * *
+---
 
 [Section 8.01 Fiscal Year.](1402a412.html)
 

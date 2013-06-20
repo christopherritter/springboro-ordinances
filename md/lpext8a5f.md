@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART TEN - STREETS, UTILITIES AND PUBLIC SERVICES CODE](407fa412.html)
 
 [TITLE TWO - Street and Sidewalk Areas](409ca412.html)
 
-* * * * *
+---
 
 [CHAPTER 1020 Streets](40a6a412.html)
 

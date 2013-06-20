@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART SIXTEEN - FIRE PREVENTION CODE](5a09a412.html)
 
 [CHAPTER 1610 Ohio Fire Code](5a18a412.html)
 
-* * * * *
+---
 
 [1610.01 1992 EDITION ADOPTED.](5a38a412.html)
 

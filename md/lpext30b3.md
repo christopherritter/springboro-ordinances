@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART TWELVE - PLANNING AND ZONING CODE](465ba412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 1268 District Regulations](5071a412.html)
 
-* * * * *
+---
 
 [1268.01 INTERPRETATION; CONFORMITY REQUIRED; ANNEXED
 TERRITORY.](5080a412.html)

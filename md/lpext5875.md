@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [CHARTER](1289a412.html)
 
 [ARTICLE XII GENERAL PROVISIONS](148ca412.html)
 
-* * * * *
+---
 
 [Section 12.01 Oath of Office.](148ea412.html)
 

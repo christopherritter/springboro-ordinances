@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART FOUR - TRAFFIC CODE](1b19a412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 436 Licensing; Accidents](2201a412.html)
 
-* * * * *
+---
 
 [436.01 DRIVER'S LICENSE OR COMMERCIAL DRIVER'S LICENSE
 REQUIRED.](2225a412.html)

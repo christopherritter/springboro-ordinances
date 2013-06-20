@@ -1,5 +1,10 @@
-286.02 MEETINGS; DUTIES.
-========================
+---
+layout: default 
+title: 286.02 MEETINGS; DUTIES.
+---
+
+{{ page.title }}
+================
 
 The Commission shall meet every six months and upon call of the
 chairman, shall perform the duties set forth in Ohio R.C. 149.39, and in

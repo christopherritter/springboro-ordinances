@@ -1,5 +1,10 @@
-CHAPTER 660 Safety, Sanitation and Health
-=========================================
+---
+layout: default 
+title: CHAPTER 660 Safety, Sanitation and Health
+---
+
+{{ page.title }}
+================
 
 [**660.01**](35647a42.html)**Venting of heaters and burners.**
 [**660.02**](357e4928.html)**Spreading contagion.**

@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART FOUR - TRAFFIC CODE](1b19a412.html)
 
 [TITLE FOUR - Streets and Traffic Control Devices](1d3da412.html)
 
-* * * * *
+---
 
 [CHAPTER 412 Street Obstructions and Special Uses](1d45a412.html)
 

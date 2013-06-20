@@ -1,5 +1,10 @@
-238.06 SCHEDULING.
-==================
+---
+layout: default 
+title: 238.06 SCHEDULING.
+---
+
+{{ page.title }}
+================
 
 The Public Safety Director shall determine the work schedule of all
 Safety Department employees. (Ord. 1031. Passed 5-5-82.)

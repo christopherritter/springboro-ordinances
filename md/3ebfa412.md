@@ -1,5 +1,10 @@
-856.09 RENEWAL OF LICENSES.
-===========================
+---
+layout: default 
+title: 856.09 RENEWAL OF LICENSES.
+---
+
+{{ page.title }}
+================
 
 All owners of taxicabs licensed under this chapter, at the completion of
 the year for which such license was issued, shall be entitled to a

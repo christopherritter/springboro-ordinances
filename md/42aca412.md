@@ -1,5 +1,11 @@
-1040.01 CONSTRUCTION AND MATERIAL SPECIFICATIONS FOR UTILITIES AND STREET IMPROVEMENTS.
-=======================================================================================
+---
+layout: default 
+title: 1040.01 CONSTRUCTION AND MATERIAL SPECIFICATIONS
+FOR UTILITIES AND STREET IMPROVEMENTS.
+---
+
+{{ page.title }}
+================
 
 ​(a) This section shall be known and may be cited as the "Specifications
 for Materials and Construction of Utilities and Street Improvements."

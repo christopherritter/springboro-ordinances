@@ -1,5 +1,10 @@
-402.12 EXPLOSIVES.
-==================
+---
+layout: default 
+title: 402.12 EXPLOSIVES.
+---
+
+{{ page.title }}
+================
 
 "Explosives" means any chemical compound or mechanical mixture that is
 intended for the purpose of producing an explosion that contains any

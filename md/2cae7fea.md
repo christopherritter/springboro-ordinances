@@ -1,5 +1,10 @@
-618.51 DEFINITIONS.
-===================
+---
+layout: default 
+title: 618.51 DEFINITIONS.
+---
+
+{{ page.title }}
+================
 
 ​(a) For the purposes of this chapter, "dangerous animal" means and
 includes:

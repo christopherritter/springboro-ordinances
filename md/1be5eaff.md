@@ -1,5 +1,10 @@
-402.19 MOTORCYCLE.
-==================
+---
+layout: default 
+title: 402.19 MOTORCYCLE.
+---
+
+{{ page.title }}
+================
 
 "Motorcycle" means every motor vehicle, other than a tractor, having a
 seat or saddle for the use of the operator and designed to travel on not

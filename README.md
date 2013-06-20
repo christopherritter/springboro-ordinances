@@ -41,6 +41,6 @@ Cleveland, Ohio
 
 Copyright, 1981, by
 
-The Walter H. Drane Company 
+The Walter H. Drane Company
 
 **CITY OF SPRINGBORO**

@@ -1,5 +1,10 @@
-TABLES OF SPECIAL ORDINANCES OF SPRINGBORO
-==========================================
+---
+layout: default 
+title: TABLES OF SPECIAL ORDINANCES OF SPRINGBORO
+---
+
+{{ page.title }}
+================
 
 EXPLANATION OF TABLES OF SPECIAL ORDINANCES
 

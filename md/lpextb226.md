@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [CHARTER](1289a412.html)
 
 [ARTICLE IX BOARDS, COMMISSIONS, AND AUTHORITIES](1441a412.html)
 
-* * * * *
+---
 
 [Section 9.01 Council's Power to Create Boards, Commissions, and
 Authorities.](1443a412.html)

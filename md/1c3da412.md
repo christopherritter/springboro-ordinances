@@ -1,5 +1,10 @@
-402.35 SCHOOL BUS.
-==================
+---
+layout: default 
+title: 402.35 SCHOOL BUS.
+---
+
+{{ page.title }}
+================
 
 "School bus" means every bus designed for carrying more than nine
 passengers that is owned by a public, private or governmental agency or

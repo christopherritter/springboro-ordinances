@@ -1,4 +1,6 @@
-Quick search:
+---
+layout: default 
+title: Quick search:
 
 Advanced search:
 

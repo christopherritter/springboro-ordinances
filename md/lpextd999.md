@@ -1,5 +1,7 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART TEN - STREETS, UTILITIES AND PUBLIC SERVICES CODE](407fa412.html)
 
@@ -7,7 +9,7 @@
 
 [CHAPTER 1026 Trees and Shrubs](410aa412.html)
 
-* * * * *
+---
 
 [1026.01 PHYSICAL OBSTRUCTION OF SIDEWALKS AND STREETS.](411da412.html)
 

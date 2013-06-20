@@ -1,11 +1,13 @@
-[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html)
-=====================================================
+---
+layout: default 
+title: [CODIFIED ORDINANCES OF SPRINGBORO,
+OHIO](index.html) =====================================================
 
 [PART FOUR - TRAFFIC CODE](1b19a412.html)
 
 [TITLE SIX - Vehicles and Operation](1ecba412.html)
 
-* * * * *
+---
 
 [CHAPTER 432 Operation Generally](1ed7a412.html)
 
