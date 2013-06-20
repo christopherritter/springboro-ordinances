@@ -3,7 +3,8 @@ layout: default
 title: TABLE A - FRANCHISES 
 ---
 
-<H1>404 - File not found</H1>
+{{ page.title }}
+----------------
 
 Ord. No. Date Description
 
