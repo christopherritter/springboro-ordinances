@@ -1,6 +1,10 @@
 ---
 layout: default 
-title: [CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html) =====================================================
+title: [CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html) 
+---
+
+{{ page.title }}
+----------------
 
 [PART TEN - STREETS, UTILITIES AND PUBLIC SERVICES CODE](407fa412.html)
 

@@ -1,6 +1,10 @@
 ---
 layout: default 
-title: [CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html) =====================================================
+title: [CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html) 
+---
+
+{{ page.title }}
+----------------
 
 [PART TWO - ADMINISTRATION CODE](1505a412.html)
 
