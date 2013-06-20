@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: 1260.03 SEPARABILITY.
+title: "1260.03 SEPARABILITY."
 ---
 
 {{ page.title }}

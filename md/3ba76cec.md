@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: 826.18 NONCONFORMING SIGNS.
+title: "826.18 NONCONFORMING SIGNS."
 ---
 
 {{ page.title }}

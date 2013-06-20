@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: CHAPTER 660 Safety, Sanitation and Health
+title: "CHAPTER 660 Safety, Sanitation and Health"
 ---
 
 {{ page.title }}

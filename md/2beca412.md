@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: 618.02 ABANDONING ANIMALS.
+title: "618.02 ABANDONING ANIMALS."
 ---
 
 {{ page.title }}

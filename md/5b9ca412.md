@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: 1630.99 PENALTY..
+title: "1630.99 PENALTY.."
 ---
 
 {{ page.title }}

@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: CHAPTER 858 Temporary Purchasers
+title: "CHAPTER 858 Temporary Purchasers"
 ---
 
 {{ page.title }}

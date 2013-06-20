@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: 1278.04 NONCONFORMING LOTS OF RECORD.
+title: "1278.04 NONCONFORMING LOTS OF RECORD."
 ---
 
 {{ page.title }}

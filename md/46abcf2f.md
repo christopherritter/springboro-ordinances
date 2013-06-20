@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: 1222.01 PLAN ADOPTED.
+title: "1222.01 PLAN ADOPTED."
 ---
 
 {{ page.title }}

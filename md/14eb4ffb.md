@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: Section 13.14 Mayor's Court Magistrate.
+title: "Section 13.14 Mayor's Court Magistrate."
 ---
 
 {{ page.title }}

@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: 276.03 CONTRACTS FOR SERVICES; AUTHORITY OF MANAGER.---
+title: "276.03 CONTRACTS FOR SERVICES; AUTHORITY OF MANAGER."---
 
 {{ page.title }}
 ----------------

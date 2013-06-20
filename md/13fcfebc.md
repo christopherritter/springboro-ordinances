@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: Section 7.09 Department of Law.
+title: "Section 7.09 Department of Law."
 ---
 
 {{ page.title }}

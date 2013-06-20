@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: 618.51 DEFINITIONS.
+title: "618.51 DEFINITIONS."
 ---
 
 {{ page.title }}

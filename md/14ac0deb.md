@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: Section 12.07 Annual Report.
+title: "Section 12.07 Annual Report."
 ---
 
 {{ page.title }}

@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: TABLE C - VACATING OF STREETS AND ALLEYS
+title: "TABLE C - VACATING OF STREETS AND ALLEYS"
 ---
 
 {{ page.title }}

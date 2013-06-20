@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: 642.06 INJURING VINES, BUSHES, TREES OR CROPS.
+title: "642.06 INJURING VINES, BUSHES, TREES OR CROPS."
 ---
 
 {{ page.title }}

@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: CHAPTER 824 Bowling, Billiards and Pool
+title: "CHAPTER 824 Bowling, Billiards and Pool"
 ---
 
 {{ page.title }}

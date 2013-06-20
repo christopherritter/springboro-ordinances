@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: CODIFIED ORDINANCES OF SPRINGBORO, OHIO
+title: "CODIFIED ORDINANCES OF SPRINGBORO, OHIO"
 ---
 
 {{ page.title }}

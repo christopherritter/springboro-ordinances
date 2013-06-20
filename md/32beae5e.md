@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: 642.08 REMOVAL OF IMPROVEMENTS FROM REAL PROPERTY.---
+title: "642.08 REMOVAL OF IMPROVEMENTS FROM REAL PROPERTY."---
 
 {{ page.title }}
 ----------------

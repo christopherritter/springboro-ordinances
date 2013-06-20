@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: TABLE A - FRANCHISES 
+title: "TABLE A - FRANCHISES "
 ---
 
 {{ page.title }}

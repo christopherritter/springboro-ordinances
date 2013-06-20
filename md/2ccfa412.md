@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: 618.57 PERMIT REQUIRED.
+title: "618.57 PERMIT REQUIRED."
 ---
 
 {{ page.title }}

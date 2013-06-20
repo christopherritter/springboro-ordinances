@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: 238.06 SCHEDULING.
+title: "238.06 SCHEDULING."
 ---
 
 {{ page.title }}

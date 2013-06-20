@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: 820.07 DISPLAY OF LICENSES.
+title: "820.07 DISPLAY OF LICENSES."
 ---
 
 {{ page.title }}

@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: [Springboro, Ohio](index.html)
+title: "[Springboro, Ohio](index.html)"
 
 ---
 

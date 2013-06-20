@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: CHAPTER 1264 Districts and Uses Generally
+title: "CHAPTER 1264 Districts and Uses Generally"
 ---
 
 {{ page.title }}

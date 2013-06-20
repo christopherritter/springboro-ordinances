@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: 860.03 HAND PEDDLERS.
+title: "860.03 HAND PEDDLERS."
 ---
 
 {{ page.title }}

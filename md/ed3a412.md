@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: TABLES OF SPECIAL ORDINANCES OF SPRINGBORO
+title: "TABLES OF SPECIAL ORDINANCES OF SPRINGBORO"
 ---
 
 {{ page.title }}

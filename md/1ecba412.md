@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: TITLE SIX - Vehicles and Operation
+title: "TITLE SIX - Vehicles and Operation"
 ---
 
 {{ page.title }}

@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: CHAPTER 290 Mayor's Court
+title: "CHAPTER 290 Mayor's Court"
 ---
 
 {{ page.title }}

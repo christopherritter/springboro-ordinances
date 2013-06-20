@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: 840.06 INJUNCTION.
+title: "840.06 INJUNCTION."
 ---
 
 {{ page.title }}

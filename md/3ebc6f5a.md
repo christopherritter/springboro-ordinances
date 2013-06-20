@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: 856.08 SUSPENSION OR REVOCATION OF LICENSES.
+title: "856.08 SUSPENSION OR REVOCATION OF LICENSES."
 ---
 
 {{ page.title }}

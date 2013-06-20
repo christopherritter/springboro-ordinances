@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: TITLE TEN - Judiciary 
+title: "TITLE TEN - Judiciary "
 ---
 
 {{ page.title }}

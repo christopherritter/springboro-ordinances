@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: Quick search:
+title: "Quick search:"
 
 Advanced search:
 

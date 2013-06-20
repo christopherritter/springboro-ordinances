@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: 642.05 UNAUTHORIZED USE OF PROPERTY.
+title: "642.05 UNAUTHORIZED USE OF PROPERTY."
 ---
 
 {{ page.title }}

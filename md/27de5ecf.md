@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: 474.06 RIDING BICYCLES UPON SIDEWALKS.
+title: "474.06 RIDING BICYCLES UPON SIDEWALKS."
 ---
 
 {{ page.title }}
