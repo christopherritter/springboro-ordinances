@@ -1,7 +1,6 @@
 ---
 layout: default 
-title: [CODIFIED ORDINANCES OF SPRINGBORO,
-OHIO](index.html) =====================================================
+title: [CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html) =====================================================
 
 [PART SIXTEEN - FIRE PREVENTION CODE](5a09a412.html)
 

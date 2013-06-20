@@ -1,8 +1,6 @@
 ---
 layout: default 
-title: 1044.11 WASTEWATER SERVICE CHARGES; MEASUREMENT
-OF FLOW; SURCHARGES.
----
+title: 1044.11 WASTEWATER SERVICE CHARGES; MEASUREMENT OF FLOW; SURCHARGES.---
 
 {{ page.title }}
 ----------------

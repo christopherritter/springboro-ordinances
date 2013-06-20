@@ -1,7 +1,6 @@
 ---
 layout: default 
-title: [CODIFIED ORDINANCES OF SPRINGBORO,
-OHIO](index.html) =====================================================
+title: [CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html) =====================================================
 
 [PART FOURTEEN - BUILDING AND HOUSING CODE](561ca412.html)
 

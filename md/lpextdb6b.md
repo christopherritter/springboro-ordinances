@@ -1,7 +1,6 @@
 ---
 layout: default 
-title: [CODIFIED ORDINANCES OF SPRINGBORO,
-OHIO](index.html) =====================================================
+title: [CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html) =====================================================
 
 [PART EIGHT - BUSINESS REGULATION AND TAXATION CODE](394aa412.html)
 

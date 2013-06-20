@@ -1,8 +1,6 @@
 ---
 layout: default 
-title: 1050.03 INITIAL STORM WATER UTILITY/SERVICE
-CHARGE.
----
+title: 1050.03 INITIAL STORM WATER UTILITY/SERVICE CHARGE.---
 
 {{ page.title }}
 ----------------

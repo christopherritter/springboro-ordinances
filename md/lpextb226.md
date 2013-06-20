@@ -1,7 +1,6 @@
 ---
 layout: default 
-title: [CODIFIED ORDINANCES OF SPRINGBORO,
-OHIO](index.html) =====================================================
+title: [CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html) =====================================================
 
 [CHARTER](1289a412.html)
 
