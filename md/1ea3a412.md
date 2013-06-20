@@ -4,7 +4,7 @@ title: 416.11 PERSONS OPERATING MOTORIZED WHEELCHAIRS.
 ---
 
 {{ page.title }}
-================
+----------------
 
 ​(a) Every person operating a motorized wheelchair shall have all of the
 rights and duties applicable to a pedestrian that are contained in this

@@ -4,7 +4,7 @@ title: CODIFIED ORDINANCES OF SPRINGBORO, OHIO
 ---
 
 {{ page.title }}
-================
+----------------
 
 [**CHARTER**](1289a412.html)
 

@@ -4,7 +4,7 @@ title: 646.16 ACTIVITY PERMITS.
 ---
 
 {{ page.title }}
-================
+----------------
 
 Any person desiring to use park property for any purpose or in any
 manner not consistent with these regulations shall first obtain a City

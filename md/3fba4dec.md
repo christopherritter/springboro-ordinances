@@ -5,7 +5,7 @@ ENFORCEMENT.
 ---
 
 {{ page.title }}
-================
+----------------
 
 ​(a) The Administrator shall receive the tax imposed by this chapter in
 the manner prescribed in this chapter from the taxpayers, shall keep an

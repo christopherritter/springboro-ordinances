@@ -4,7 +4,7 @@ title: 1262.15 APPEALS..
 ---
 
 {{ page.title }}
-================ppeals to the Board of Zoning Appeals concerning the interpretation or
+----------------
 administration of this Zoning Code may be taken by any person aggrieved
 or by any officer or bureau of the governing body of the Municipality
 affected by a decision of the Building and Zoning Inspector. Such

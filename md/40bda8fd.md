@@ -5,7 +5,7 @@ UNACCEPTED STREETS.
 ---
 
 {{ page.title }}
-================
+----------------
 
 ​(a) Prior to approval of a final plat by the City the owner or
 developer shall enter into an agreement with the City which:

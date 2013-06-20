@@ -5,7 +5,7 @@ ANIMALS.
 ---
 
 {{ page.title }}
-================
+----------------
 
 The Chief Animal Control Officer or his/her authorized deputy shall
 forthwith cause to be seized and impounded any dangerous animal, where

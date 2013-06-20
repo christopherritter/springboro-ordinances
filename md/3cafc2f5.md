@@ -5,7 +5,7 @@ BUSINESSES REGULATED.
 ---
 
 {{ page.title }}
-================
+----------------
 
 ​(a) No person shall cause or permit the establishment of any sexually
 oriented business on a parcel of land any part of which is within 500

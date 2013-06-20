@@ -5,7 +5,7 @@ DEPOSITED.
 ---
 
 {{ page.title }}
-================
+----------------
 
 No person shall fail to remove any earth material which has been
 deposited or dropped upon a public street, right of way, easement or

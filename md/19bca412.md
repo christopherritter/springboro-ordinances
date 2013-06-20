@@ -5,7 +5,7 @@ PROPERTY.
 ---
 
 {{ page.title }}
-================
+----------------
 
 ​(a) Construction Site Precautions. The following protective techniques
 shall be followed during construction activity which may impact a

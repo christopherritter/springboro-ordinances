@@ -4,7 +4,7 @@ title: CHAPTER 1264 Districts and Uses Generally
 ---
 
 {{ page.title }}
-================
+----------------
 
 [**1264.01**](4dcda801.html)**Establishment of districts.**
 [**1264.02**](4de1a210.html)**A-1 Agriculture District.**

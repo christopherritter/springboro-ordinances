@@ -4,7 +4,7 @@ title: 618.58 ISSUANCE OF PERMIT.
 ---
 
 {{ page.title }}
-================
+----------------
 
 Except as hereinafter provided, no person under Section
 [618.51](2cbad659.html) without first applying to and receiving a permit

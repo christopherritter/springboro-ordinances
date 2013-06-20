@@ -4,7 +4,7 @@ title: 1044.09 TAP-IN FEES.
 ---
 
 {{ page.title }}
-================
+----------------
 
 ​(a) Multiple family dwellings shall be charged a tap-in fee as set
 forth in Appendix A of Chapter [1464](58d37b9c.html) of the Building and

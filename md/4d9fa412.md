@@ -5,7 +5,7 @@ DISTRICTS; DEPOSIT.
 ---
 
 {{ page.title }}
-================
+----------------
 
 Any person who desires a change of zoning districts shall file an
 application therefor with the Building and Zoning Inspector and shall

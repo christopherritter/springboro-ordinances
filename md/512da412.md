@@ -4,7 +4,7 @@ title: 1270.23 FIRE HAZARDS.
 ---
 
 {{ page.title }}
-================
+----------------
 
 Any activity involving the use or storage of flammable or explosive
 materials shall be protected by adequate firefighting and fire

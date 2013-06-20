@@ -4,7 +4,7 @@ title: TABLES OF SPECIAL ORDINANCES OF SPRINGBORO
 ---
 
 {{ page.title }}
-================
+----------------
 
 EXPLANATION OF TABLES OF SPECIAL ORDINANCES
 

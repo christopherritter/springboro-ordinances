@@ -4,7 +4,7 @@ title: 840.10 ISSUANCE OF PERMIT.
 ---
 
 {{ page.title }}
-================
+----------------
 
 ​(a) The Director of Department of Police or his/her designee, shall
 grant or deny the application for a permit within thirty days from the

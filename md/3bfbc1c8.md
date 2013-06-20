@@ -4,7 +4,7 @@ title: 826.99 PENALTY.
 ---
 
 {{ page.title }}
-================
+----------------
 
 Whoever violates any provision of this chapter shall be guilty of a
 misdemeanor of the third degree and shall be fined not more than five

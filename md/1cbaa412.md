@@ -5,7 +5,7 @@ EXCEPTED.
 ---
 
 {{ page.title }}
-================
+----------------
 
 The provisions of this Traffic Code do not apply to persons, teams,
 motor vehicles and other equipment while actually engaged in work upon

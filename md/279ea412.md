@@ -5,7 +5,7 @@ BICYCLES.
 ---
 
 {{ page.title }}
-================
+----------------
 
 ​(a) The provisions of this Traffic Code which are applicable to
 bicycles and motorized

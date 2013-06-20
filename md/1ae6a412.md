@@ -4,7 +4,7 @@ title: CHAPTER 290 Mayor's Court
 ---
 
 {{ page.title }}
-================
+----------------
 
 EDITOR'S NOTE: Ohio R. C. 1905.01 provides that the Mayor of Springboro
 has jurisdiction to hear and determine any prosecution for the violation

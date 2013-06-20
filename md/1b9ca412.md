@@ -4,7 +4,7 @@ title: 402.04 BICYCLE; MOTORIZED BICYCLE.
 ---
 
 {{ page.title }}
-================
+----------------
 
 ​(a) "Bicycle" means every device, other than a tricycle designed solely
 for use as a play vehicle by a child, propelled solely by human power,

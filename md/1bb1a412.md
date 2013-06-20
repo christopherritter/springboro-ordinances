@@ -4,7 +4,7 @@ title: 402.09 CROSSWALK.
 ---
 
 {{ page.title }}
-================
+----------------
 
 "Crosswalk" means:
 

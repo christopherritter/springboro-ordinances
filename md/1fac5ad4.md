@@ -5,7 +5,7 @@ SIGNS.
 ---
 
 {{ page.title }}
-================
+----------------
 
 ​(a) The driver of a vehicle approaching a yield sign shall slow down to
 a speed reasonable for the existing conditions and, if required for

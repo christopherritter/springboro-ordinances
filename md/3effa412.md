@@ -4,7 +4,7 @@ title: 860.03 HAND PEDDLERS.
 ---
 
 {{ page.title }}
-================
+----------------
 
 Every peddler selling goods of any kind carried by hand shall obtain a
 license before engaging in business and shall pay a fee therefor as set

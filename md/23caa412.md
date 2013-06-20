@@ -5,7 +5,7 @@ PLATE.
 ---
 
 {{ page.title }}
-================
+----------------
 
 ​(a) Every motor vehicle, trailer, semitrailer, pole trailer or vehicle
 which is being drawn at the end of a train of vehicles shall be equipped

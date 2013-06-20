@@ -4,7 +4,7 @@ title: 630.11 BINGO OR GAME OF CHANCE RECORDS.
 ---
 
 {{ page.title }}
-================
+----------------
 
 ​(a) No charitable organization that conducts bingo or a game of chance
 pursuant to Section [630.02(](2f007661.html)d), shall fail to maintain

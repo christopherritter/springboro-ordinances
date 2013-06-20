@@ -4,7 +4,7 @@ title: CHAPTER 858 Temporary Purchasers
 ---
 
 {{ page.title }}
-================
+----------------
 
 [**858.01**](3edb858b.html)**Temporary purchaser defined.**
 [**858.02**](3ede6cfe.html)**License required; fee; term.**

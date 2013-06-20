@@ -4,7 +4,7 @@ title: 618.02 ABANDONING ANIMALS.
 ---
 
 {{ page.title }}
-================
+----------------
 
 ​(a) No owner or keeper of a dog, cat or other domestic animal shall
 abandon such animal. (ORC 959.01)

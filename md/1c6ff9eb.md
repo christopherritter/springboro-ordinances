@@ -4,7 +4,7 @@ title: 402.48 TRAILER.
 ---
 
 {{ page.title }}
-================
+----------------
 
 "Trailer" means every vehicle designed or used for carrying persons or
 property wholly on its own structure and for being drawn by a motor

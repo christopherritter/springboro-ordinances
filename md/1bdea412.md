@@ -4,7 +4,7 @@ title: 402.18 LANED STREET OR HIGHWAY.
 ---
 
 {{ page.title }}
-================
+----------------
 
 "Laned street or highway" means a street or highway the roadway of which
 is divided into two or more clearly marked lanes for vehicular traffic.

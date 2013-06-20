@@ -4,7 +4,7 @@ title: 642.05 UNAUTHORIZED USE OF PROPERTY.
 ---
 
 {{ page.title }}
-================
+----------------
 
 ​(a) No person shall knowingly use or operate the property of another
 without the consent of the owner or person authorized to give consent.

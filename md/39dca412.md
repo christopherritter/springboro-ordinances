@@ -4,7 +4,7 @@ title: CHAPTER 824 Bowling, Billiards and Pool
 ---
 
 {{ page.title }}
-================
+----------------
 
 [**824.01**](39e90b7d.html)**License fees.**
 

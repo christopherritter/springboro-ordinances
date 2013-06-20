@@ -5,7 +5,7 @@ AMENITIES.
 ---
 
 {{ page.title }}
-================
+----------------
 
 ​(a) General*.* Existing natural features that would add value to
 residential development or to the City as a whole shall be preserved if
@@ -26,7 +26,7 @@ Chapter [280](190dab57.html) of the Codified Ordinances.
 ---
 
 {{ page.title }}
-================
+----------------
 
 ​(a) General. If a proposed subdivision includes land that is zoned for
 commercial or industrial purposes, the layout of the subdivision with

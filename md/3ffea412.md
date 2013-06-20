@@ -4,7 +4,7 @@ title: 880.14 ALLOCATION OF FUNDS.
 ---
 
 {{ page.title }}
-================
+----------------
 
 Moneys derived from the tax imposed by this chapter for the purposes
 specified in Section [880.01](3f3c0442.html) shall be allocated to the
