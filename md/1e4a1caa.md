@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "416.02 RIGHT OF WAY OF BLIND PERSON."
+title: "416&#46;02 RIGHT OF WAY OF BLIND PERSON&#46;"
 ---
 
 {{ page.title }}

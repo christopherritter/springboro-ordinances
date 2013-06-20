@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "402.23 PERSON."
+title: "402&#46;23 PERSON&#46;"
 ---
 
 {{ page.title }}

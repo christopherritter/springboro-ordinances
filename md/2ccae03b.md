@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "618.56 SEIZURE AND IMPOUNDING OF DANGEROUS ANIMALS."---
+title: "618&#46;56 SEIZURE AND IMPOUNDING OF DANGEROUS ANIMALS&#46;"---
 
 {{ page.title }}
 ----------------

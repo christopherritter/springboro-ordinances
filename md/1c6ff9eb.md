@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "402.48 TRAILER."
+title: "402&#46;48 TRAILER&#46;"
 ---
 
 {{ page.title }}

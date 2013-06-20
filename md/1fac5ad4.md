@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "432.17 OPERATION OF VEHICLE AT STOP AND YIELD SIGNS."---
+title: "432&#46;17 OPERATION OF VEHICLE AT STOP AND YIELD SIGNS&#46;"---
 
 {{ page.title }}
 ----------------

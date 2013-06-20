@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "646.16 ACTIVITY PERMITS."
+title: "646&#46;16 ACTIVITY PERMITS&#46;"
 ---
 
 {{ page.title }}

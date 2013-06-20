@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "1062.03 CONTRACTS FOR COLLECTION."
+title: "1062&#46;03 CONTRACTS FOR COLLECTION&#46;"
 ---
 
 {{ page.title }}

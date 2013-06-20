@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "1248.09 PRESERVATION OF NATURAL FEATURES AND AMENITIES."---
+title: "1248&#46;09 PRESERVATION OF NATURAL FEATURES AND AMENITIES&#46;"---
 
 {{ page.title }}
 ----------------

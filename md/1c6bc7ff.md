@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "402.47 TRAFFIC CONTROL SIGNAL."
+title: "402&#46;47 TRAFFIC CONTROL SIGNAL&#46;"
 ---
 
 {{ page.title }}

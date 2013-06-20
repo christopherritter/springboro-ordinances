@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "618.58 ISSUANCE OF PERMIT."
+title: "618&#46;58 ISSUANCE OF PERMIT&#46;"
 ---
 
 {{ page.title }}

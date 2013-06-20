@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "206.01 DIVISION OF MUNICIPALITY INTO WARDS."
+title: "206&#46;01 DIVISION OF MUNICIPALITY INTO WARDS&#46;"
 ---
 
 {{ page.title }}

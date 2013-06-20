@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "402.18 LANED STREET OR HIGHWAY."
+title: "402&#46;18 LANED STREET OR HIGHWAY&#46;"
 ---
 
 {{ page.title }}
