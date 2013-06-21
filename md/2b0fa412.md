@@ -1,6 +1,19 @@
 ---
-layout: default 
-title: "404 - File not found"
+layout: default
+title: "612&#46;01 DEFINITIONS."
 ---
 
-<H1>404 - File not found</H1>
+{{ page.title }}
+----------------
+
+As used in the Codified Ordinances:
+
+(a) &quot;Alcohol&quot; means ethyl alcohol, whether rectified or diluted with water or not, whatever its origin may be, and includes synthetic ethyl alcohol. Such term excludes denatured alcohol and wood alcohol.
+
+(b) &quot;Intoxicating liquor&quot; and &quot;liquor&quot; include all liquids and compounds, other than beer as defined in subsection (c) hereof, containing one half of one percent (0.5%) or more of alcohol by volume which are fit to use for beverage purposes, from whatever source and by whatever process produced, by whatever name called and whether they are medicated, proprietary or patented. Such phrase includes wine as defined in Ohio R.C. 4301.01 even if it contains less than four percent (4%) of alcohol by volume, mixed beverages as defined in Ohio R.C. 4301.01 even if they contain less than four percent (4%) of alcohol by volume, cider, alcohol and all solids and confections which contain any alcohol.
+
+(c) &quot;Beer&quot; includes all beverages brewed or fermented wholly or in part from malt products and containing one-half of one percent (0.5%) or more, but not more than twelve percent (12%) of alcohol by volume.
+
+(d) &quot;Person&quot; includes firms and corporations. (ORC 4301.01)
+
+(e) &quot;Low-alcohol beverage" means any brewed or fermented malt product, or any product made from the fermented juices of grapes, fruits, or other agricultural products, that contains either no alcohol or less than one-half of one percent (0.5%) of alcohol by volume. The beverages described in subsection (e) hereof do not include a soft drink such as root beer, birch beer, or ginger beer. (ORC 4301.01)

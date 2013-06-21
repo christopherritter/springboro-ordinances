@@ -1,6 +1,31 @@
 ---
-layout: default 
-title: "404 - File not found"
+layout: default
+title: "CHAPTER 1244 Subdivision Application, Procedure and Approval Process"
 ---
 
-<H1>404 - File not found</H1>
+{{ page.title }}
+----------------
+
+[1244.01  GENERAL PROCEDURE.](4a23a412.html)
+
+[1244.02  MINOR SUBDIVISIONS.](4a35a412.html)
+
+[1244.03  MAJOR SUBDIVISIONS.](4a3ba412.html)
+
+[1244.04  PRELIMINARY PLAN.](4a47a412.html)
+
+[1244.05  AMENDMENTS TO PRELIMINARY PLAN.](4a61a412.html)
+
+[1244.06  CONSTRUCTION DRAWINGS SUBMITTAL AND REVIEW.](4a65a412.html)
+
+[1244.07  RECORD PLAN.](4a6ba412.html)
+
+[1244.08  VESTED RIGHTS AND DEVELOPMENT AGREEMENTS.](4a78a412.html)
+
+[1244.09  SUBDIVIDER'S AGREEMENTS.](4a80a412.html)
+
+[1244.10  SIGNING AND RECORDING OF RECORD PLAN.](4a8aa412.html)
+
+[1244.11  APPEALS TO CITY COUNCIL.](4a97a412.html)
+
+[1244.12  SUSPENSION AND INVALIDATION OF PLAT.](4a9da412.html)

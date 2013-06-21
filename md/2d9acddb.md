@@ -1,6 +1,43 @@
 ---
-layout: default 
-title: "404 - File not found"
+layout: default
+title: "624&#46;03 DRUG ABUSE; CONTROLLED SUBSTANCE POSSESSION OR USE."
 ---
 
-<H1>404 - File not found</H1>
+{{ page.title }}
+----------------
+
+(a) No person shall knowingly obtain, possess or use a controlled substance.
+
+(b) This section does not apply to the following:
+
+(1) Manufacturers, licensed health professionals authorized to prescribe drugs, pharmacists, owners of pharmacies and other persons whose conduct was in accordance with Ohio R.C. Chapters 3719, 4715, 4729, 4730, 4731 and 4741.
+
+(2) If the offense involves an anabolic steroid, any person who is conducting or participating in a research project involving the use of an anabolic steroid if the project has been approved by the United States Food and Drug Administration;
+
+(3) Any person who sells, offers for sale, prescribes, dispenses or administers for livestock or other nonhuman species an anabolic steroid that is expressly intended for administration through implants to livestock or other nonhuman species and approved for that purpose under the &quot;Federal Food, Drug and Cosmetic Act&quot;, 52 Stat. 1040 (1938), 21 U.S.C.A. 301, as amended, and is sold, offered for sale, prescribed, dispensed or administered for that purpose in accordance with that Act;
+
+(4) Any person who obtained the controlled substance pursuant to a lawful prescription issued by a licensed health professional authorized to prescribe drugs.
+
+(c) Whoever violates subsection (a) hereof is guilty of one of the following:
+
+(1) If the drug involved in the violation is a compound, mixture, preparation, or substance included in Schedule III, IV, or V, whoever violates subsection (a) hereof is guilty of possession of drugs. Possession of drugs is a misdemeanor if the amount of the drug involved does not exceed the bulk amount. The penalty for the offense shall be determined as follows: possession of drugs is a misdemeanor of the first degree or, if the offender previously has been convicted of a drug abuse offense, a felony and shall be prosecuted under appropriate State law.
+
+(2) If the drug involved in the violation is marihuana or a compound, mixture, preparation, or substance containing marihuana other than hashish, whoever violates subsection (a) hereof is guilty of possession of marihuana. Possession of marihuana is a misdemeanor if the amount of the drug involved does not exceed 200 grams. The penalty for the offense shall be determined as follows:
+
+  A. Except as otherwise provided in subsection (c)(2)B. hereof, possession of marihuana is a minor misdemeanor.
+
+  B. If the amount of the drug involved equals or exceeds 100 grams but is less than 200 grams, possession of marihuana is a misdemeanor of the fourth degree.
+
+(3) If the drug involved in the violation is hashish or a compound, mixture, preparation, or substance containing hashish, whoever violates subsection (a) hereof is guilty of possession of hashish. Possession of hashish is a misdemeanor if the amount of the drug involved does not exceed the maximum amount specified in subsection (c)(3)B. hereof. The penalty for the offense shall be determined as follows:
+
+  A. Except as otherwise provided in subsection (c)(3)B. hereof, possession of hashish is a minor misdemeanor.
+
+  B. If the amount of the drug involved equals or exceeds five grams but is less than ten grams of hashish in a solid form or equals or exceeds one gram but is less than two grams of hashish in a liquid concentrate, liquid extract, or liquid distillate form, possession of hashish is a misdemeanor of the fourth degree.
+
+(4) If the drug involved is 1-Pentyl-3-(1-naphthoyl)indole, 1-Butyl-3-(1- napthoyl)indole, 1-[2-(4-morpholinyl)ethyl]-3-(1-naphthoyl)indole, 5-(1,1- dimethylheptyl)-2-[(1R,3S)-3-hydroxycyclohexyl]-phenol, or 5-(1,1- dimethyloctyl)-2-[(1R,3S)-3-hydroxycyclohexyl]-phenol or a compound, mixture, preparation or substance containing 1-Pentyl-3-(1- naphthoyl)indole, 1-Butyl-3-(1-naphthoyl)indole, 1-[2-(4- morpholinyl)ethyl]-3- (1-naphthoyl)indole, 5-(1-1-dimethylheptyl)-2- [(1R,3S)-3-hydroxycyclohexyl]-phenol, or 5-(1,1-dimethyloctyl)-2- [(1R,3S)-3-hydroxycyclohexyl]-phenol, whoever violates subsection (a) of this section is guilty of possession of spice, a minor misdemeanor.
+
+(d) In addition to any other sanction that is imposed for an offense under this section, the court that sentences an offender who is convicted of or pleads guilty to a violation of this section may suspend for not less than six months or more than five years the offender's driver's or commercial driver's license or permit.
+
+(e) Arrest or conviction for a minor misdemeanor violation of this section does not constitute a criminal record and need not be reported by the person so arrested or convicted in response to any inquiries about the person's criminal record, including any inquiries contained in any application for employment, license, or other right or privilege, or made in connection with the person's appearance as a witness. 
+
+(ORC 2925.11)

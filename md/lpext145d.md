@@ -1,6 +1,35 @@
 ---
-layout: default 
-title: "404 - File not found"
+layout: default
+title: "CHAPTER 850 Computerized Internet Sweepstakes Cafes"
 ---
 
-<H1>404 - File not found</H1>
+{{ page.title }}
+----------------
+
+[850.01   PURPOSE.](3de9a412.html)
+
+[850.02   DEFINITIONS.](3deda412.html)
+
+[850.03   COMPUTERIZED INTERNET SWEEPSTAKES TERMINAL CAF&Eacute; LICENSE REQUIRED.](3dfca412.html)
+
+[850.04   COMPUTERIZED INTERNET SWEEPSTAKES DEVICE LICENSE REQUIRED.](3e00a412.html)
+
+[850.05   AUTHORITY OF CHIEF OF POLICE.](3e04a412.html)
+
+[850.06   NATURE OF LICENSES.](3e08a412.html)
+
+[850.07   PROCEDURE FOR OBTAINING LICENSES.](3e10a412.html)
+
+[850.08   DENIAL OF LICENSE.](3e38a412.html)
+
+[850.09   CONDITIONS AND REGULATIONS.](3e47a412.html)
+
+[850.10   PROHIBITED CONDUCT.](3e5ca412.html)
+
+[850.11   REVOCATION.](3e6aa412.html)
+
+[850.12   LICENSE FEES.](3e73a412.html)
+
+[850.13   SEVERABILITY.](3e79a412.html)
+
+[850.99   PENALTY.](3e7ca412.html)

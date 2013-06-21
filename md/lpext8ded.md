@@ -1,6 +1,23 @@
 ---
-layout: default 
-title: "404 - File not found"
+layout: default
+title: "CHAPTER 406 Traffic Control"
 ---
 
-<H1>404 - File not found</H1>
+{{ page.title }}
+----------------
+
+[406.01  AUTHORITY AND CONSIDERATIONS FOR PLACEMENT OF DEVICES.](1d0aa412.html)
+
+[406.02  CONFORMITY WITH STATE MANUAL.](1d14a412.html)
+
+[406.03  POWERS OF MANAGER.](1d17a412.html)
+
+[406.04  POSTING OF SIGNS AND SIGNALS REQUIRED.](1d2ba412.html)
+
+[406.05  MANAGER'S POWERS NOT LIMITED.](1d2ea412.html)
+
+[406.06  RECORDS OF MANAGER.](1d31a412.html)
+
+[406.07  RESERVATION OF POWER TO COUNCIL.](1d34a412.html)
+
+[406.08  VIOLATIONS SUBJECT TO GENERAL CODE PENALTY.](1d37a412.html)

@@ -1,6 +1,21 @@
 ---
-layout: default 
-title: "404 - File not found"
+layout: default
+title: "CHAPTER 1246 Assurance for Completion and Maintenance of Improvements"
 ---
 
-<H1>404 - File not found</H1>
+{{ page.title }}
+----------------
+
+[1246.01  IMPROVEMENTS AND SUBDIVIDER'S AGREEMENT. ](4ab2a412.html)
+
+[1246.02  INSPECTION OF IMPROVEMENTS.](4ac9a412.html)
+
+[1246.03  RELEASE OF SECURITY.](4acda412.html)
+
+[1246.04  ESCROW DEPOSITS FOR LOT IMPROVEMENTS.](4ad3a412.html)
+
+[1246.05  MAINTENANCE OF IMPROVEMENTS.](4ad9a412.html)
+
+[1246.06  DEFERRAL OF REQUIRED IMPROVEMENTS.](4adda412.html)
+
+[1246.07  ISSUANCE OF BUILDING PERMITS AND CERTIFICATES OF OCCUPANCY.](4ae3a412.html)

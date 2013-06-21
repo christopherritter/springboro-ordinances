@@ -1,6 +1,31 @@
 ---
-layout: default 
-title: "404 - File not found"
+layout: default
+title: "850&#46;10  PROHIBITED CONDUCT."
 ---
 
-<H1>404 - File not found</H1>
+{{ page.title }}
+----------------
+
+(a) No Licensee of a Computerized Internet Sweepstakes Terminal Caf&eacute; by himself, directly or indirectly, or by any representative, agent or employee shall permit or fail to take active steps to eliminate the activities specified in this section from occurring upon the premises. All such Licensees shall have a duty to diligently pursue enforcement of this section. The actions of the Operator and the failure to take action by the Operator shall be imputed to the Licensees. No such Licensee shall:
+
+(1)  Permit the premises to become a gathering place for disorderly persons of any type;
+
+(2)  Permit gambling in any form or the possession of gambling paraphernalia upon the premises;
+
+(3)  Permit intoxication or permit the possession, sale, use or consumption of alcoholic beverages upon the Premises unless properly licensed through the State of Ohio; 
+
+(4)  Permit the possession, use or consumption of any unlawful drug, narcotic or controlled substance upon the premises; 
+
+(5)  Permit the premises or the activity conducted thereon to become a public nuisance to the surrounding environs;
+
+(6)  Permit the driveways or streets to become obstructed in any manner so that traffic is hindered;
+
+(7)  Permit any Computerized Internet Sweepstakes Device thereon to be operated at any time the premises are not open for business, or permit the entrance to be locked at any time that the premises are open for business; 
+
+(8)  Permit any computerized sweepstakes device to be offered to be used for gambling of any sort.
+
+(9)  Permit the premises to be open for business without displaying the licenses therefore in a conspicuous place thereon;
+
+(10)  Permit any violation of any ordinance of the City or statute of the State of Ohio to take place upon the premises.
+
+  (Ord. 11-9. Passed 4-7-11.)

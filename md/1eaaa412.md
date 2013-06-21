@@ -1,6 +1,51 @@
 ---
-layout: default 
-title: "404 - File not found"
+layout: default
+title: "416&#46;12 ELECTRIC PERSONAL ASSISTIVE MOBILITY DEVICES."
 ---
 
-<H1>404 - File not found</H1>
+{{ page.title }}
+----------------
+
+(a) (1) Electric personal assistive mobility devices may be operated on the public streets, highways, sidewalks, and paths and portions of roadways set aside for the exclusive use of bicycles in accordance with this section.
+
+(2) Except as otherwise provided in this section, those sections of this Traffic Code that by their nature are applicable to an electric personal assistive mobility device apply to the device and the person operating it whenever it is operated upon any public street, highway, sidewalk, or path or upon any portion of a roadway set aside for the exclusive use of bicycles.
+
+(b) No operator of an electric personal assistive mobility device shall do any of the following:
+
+(1) Fail to yield the right-of-way to all pedestrians and human-powered vehicles at all times;
+
+(2) Fail to give an audible signal before overtaking and passing a pedestrian;
+
+(3) Operate the device at night unless the device or its operator is equipped with or wearing both of the following:
+
+  A. A lamp pointing to the front that emits a white light visible from a distance of not less than five hundred feet;
+
+  B. A red reflector facing the rear that is visible from all distances from one hundred feet to six hundred feet when directly in front of lawful lower beams of head lamps on a motor vehicle.
+
+(4) Operate the device on any portion of a street or highway that has an established speed limit of fifty-five miles per hour or more;
+
+(5) Operate the device upon any path set aside for the exclusive use of pedestrians or other specialized use when an appropriate sign giving notice of the specialized use is posted on the path;
+
+(6) If under eighteen years of age, operate the device unless wearing a protective helmet on the person's head with the chin strap properly fastened;
+
+(7) If under sixteen years of age, operate the device unless, during the operation, the person is under the direct visual and audible supervision of another person who is eighteen years of age or older and is responsible for the immediate care of the person under sixteen years of age.
+
+(c) No person who is under fourteen years of age shall operate an electric personal assistive mobility device.
+
+(d) No person shall distribute or sell an electric personal assistive mobility device unless the device is accompanied by a written statement that is substantially equivalent to the following: "WARNING: TO REDUCE THE RISK OF SERIOUS INJURY, USE ONLY WHILE WEARING FULL PROTECTIVE EQUIPMENT - HELMET, WRIST GUARDS, ELBOW PADS, AND KNEE PADS". (ORC 4511.512)
+
+(e) "Electric personal assistive mobility device" means a self-balancing two non-tandem wheeled device that is designed to transport only one person, has an electric propulsion system of an average of seven hundred fifty watts, and when ridden on a paved level surface by an operator who weighs one hundred seventy pounds has a maximum speed of less than twenty miles per hour. (ORC 4501.01)
+
+(f) Whoever violates subsection (b) or (c) hereof is guilty of a minor misdemeanor and shall be punished as follows:
+
+(1) The offender shall be fined ten dollars ($10.00).
+
+(2) If the offender previously has been convicted of or pleaded guilty to a violation of division (B) or (C) of Ohio R.C. 4511.512 or a substantially similar municipal ordinance, the court, in addition to imposing the fine required under subsection (f)(1) hereof, shall do one of the following:
+
+  A. Order the impoundment for not less than one day but not more than thirty days of the electric personal assistive mobility device that was involved in the current violation of that section. The court shall order the device to be impounded at a safe indoor location designated by the court and may assess storage fees of not more than five dollars ($5.00) per day, provided the total storage, processing, and release fees assessed against the offender or the device in connection with the device's impoundment or subsequent release shall not exceed fifty dollars ($50.00).
+
+  B. If the court does not issue an impoundment order pursuant to subsection (f)(2)A. hereof, issue an order prohibiting the offender from operating any electric personal assistive mobility device on the public streets, highways, sidewalks, and paths and portions of roadways set aside for the exclusive use of bicycles for not less than one day but not more than thirty days.
+
+(g) Whoever violates subsection (d) hereof is guilty of a minor misdemeanor.
+
+(ORC 4511.512)

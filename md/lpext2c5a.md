@@ -1,6 +1,11 @@
 ---
-layout: default 
-title: "404 - File not found"
+layout: default
+title: "CHAPTER 246 Department of Community Programs"
 ---
 
-<H1>404 - File not found</H1>
+{{ page.title }}
+----------------
+
+[246.01  ESTABLISHMENT.](188ea412.html)
+
+[246.02  DIRECTOR'S DUTIES.](1894a412.html)

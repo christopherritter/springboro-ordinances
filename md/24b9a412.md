@@ -1,6 +1,55 @@
 ---
-layout: default 
-title: "404 - File not found"
+layout: default
+title: "438&#46;27  DRIVERS AND PASSENGERS REQUIRED TO WEAR SEAT BELTS."
 ---
 
-<H1>404 - File not found</H1>
+{{ page.title }}
+----------------
+
+(a) As used in this section:
+
+(1) &quot;Automobile&quot; means any commercial tractor, passenger car, commercial car or truck that is required to be factory-equipped with an occupant restraining device for the operator or any passenger by regulations adopted by the United States Secretary of Transportation pursuant to the &quot;National Traffic and Motor Vehicle Safety Act of 1966,&quot; 80 Stat. 719, 15 U.S.C.A. 1392.
+
+(2) &quot;Occupant restraining device&quot; means a seat safety belt, shoulder belt, harness or other safety device for restraining a person who is an operator of or passenger in an automobile and that satisfies the minimum Federal vehicle safety standards established by the United States Department of Transportation.
+
+(3) &quot;Passenger&quot; means any person in an automobile, other than its operator, who is occupying a seating position for which an occupant restraining device is provided.
+
+(4) &quot;Commercial tractor,&quot; &quot;passenger car,&quot; and &quot;commercial car&quot; have the same meanings as provided in Ohio R.C. 4501.01.
+
+(5) &quot;Vehicle&quot; and &quot;motor vehicle&quot;, as used in the definitions of the terms set forth in subsection (a)(4) hereof, have the same meanings as provided in Chapter [402](1b446328.html).
+
+(6) "Tort action" means a civil action for damages for injury, death, or loss to person or property. "Tort action" includes a product liability claim, as defined in Ohio R.C. 2307.71 and an asbestos claim, as defined in Ohio R.C. 2307.91, but does not include a civil action for damages for breach of contract or another agreement between persons.
+
+(b) No person shall do either of the following:
+
+(1) Operate an automobile on any street or highway unless that person is wearing all of the available elements of a properly adjusted occupant restraining device, or operate a school bus that has an occupant restraining device installed for use in its operator's seat unless that person is wearing all of the available elements of the device, as properly adjusted;
+
+(2) Operate an automobile on any street or highway unless each passenger in the automobile who is subject to the requirement set forth in subsection (b)(3) hereof is wearing all of the available elements of a properly adjusted occupant restraining device;
+
+(3) Occupy, as a passenger, a seating position on the front seat of an automobile being operated on any street or highway unless that person is wearing all of the available elements of a properly adjusted occupant restraining device;
+
+(4) Operate a taxicab on any street or highway unless all factory-equipped occupant restraining devices in the taxicab are maintained in usable form.
+
+(c) Subsection (b)(3) hereof does not apply to a person who is required by Section [438.26](249dfe9f.html) to be secured in a child restraint device or booster seat. Subsection (b)(1) hereof does not apply to a person who is an employee of the United States Postal Service or of a newspaper home delivery service, during any period in which the person is engaged in the operation of an automobile to deliver mail or newspapers to addressees. Subsections (b)(1) and (3) hereof do not apply to a person who has an affidavit signed by a physician licensed to practice in this State under Ohio R.C. Chapter 4731 or a chiropractor licensed to practice in this State under Ohio R.C. Chapter 4734 that states that the person has a physical impairment that makes use of an occupant restraining device impossible or impractical.
+
+(d) Notwithstanding any provision of law to the contrary, no law enforcement officer shall cause an operator of an automobile being operated on any street or highway to stop the automobile for the sole purpose of determining whether a violation of subsection (b) hereof has been or is being committed or for the sole purpose of issuing a ticket, citation or summons for a violation of that nature or causing the arrest of or commencing a prosecution of a person for a violation of that nature, and no law enforcement officer shall view the interior or visually inspect any automobile being operated on any street or highway for the sole purpose of determining whether a violation of that nature has been or is being committed.
+
+(e) All fines collected for violations of subsection (b) hereof shall be forwarded to the Treasurer of State for deposit as provided in Ohio R.C. 4513.263.
+
+(f) (1) Subject to subsection (f)(2) of this section, the failure of a person to wear all of the available elements of a properly adjusted occupant restraining device in violation of subsection (b)(1) or (3) or the failure of a person to ensure that each minor who is a passenger of an automobile being operated by that person is wearing all of the available elements of a properly adjusted occupant restraining device, in violation of subsection (b)(2) of this section, shall not be considered or used by the trier of fact in a tort action as evidence of negligence or contributory negligence. But the trier of fact may determine based on evidence admitted consistent with the Ohio rules of evidence that the failure contributed to the harm alleged in the tort action and may diminish a recovery of compensatory damages that represents noneconomic loss, as defined in Ohio R.C. 2307.011 in a tort action that could have been recovered but for the plaintiff's failure to wear all of the available elements of a properly adjusted occupant restraining device. Evidence of that failure shall not be used as a basis for a criminal prosecution of the person other than a prosecution for a violation of this section; and shall not be admissible as evidence in a criminal action involving the person other than a prosecution for a violation of this section.
+
+(2) If, at the time of an accident involving a passenger car equipped with occupant restraining devices, any occupant of the passenger car who sustained injury or death was not wearing an available occupant restraining device, was not wearing all of the available elements of such a device, or was not wearing such a device as properly adjusted, then, consistent with the Rules of Evidence, the fact that the occupant was not wearing the available occupant restraining device, was not wearing all of the available elements of such a device, or was not wearing such a device as properly adjusted is admissible in evidence in relation to any claim for relief in a tort action to the extent that the claim for relief satisfies all of the following:
+
+  A.  It seeks to recover damages for injury or death to the occupant.
+
+  B. The defendant in question is the manufacturer, designer, distributor or seller of the passenger car.
+
+  C. The claim for relief against the defendant in question is that the injury or death sustained by the occupant was enhanced or aggravated by some design defect in the passenger car or that the passenger car was not crashworthy.
+
+(g) (1) Whoever violates subsection (b)(1) of this section shall be fined thirty dollars ($30.00).
+
+(2) Whoever violates subsection (b)(3) of this section shall be fined twenty dollars ($20.00).
+
+(3) Except as otherwise provided in this subsection, whoever violates subsection (b)(4) of this section is guilty of a minor misdemeanor. If the offender previously has been convicted of or pleaded guilty to a violation of subsection (b)(4) of this section, whoever violates subsection (b)(4) of this section is guilty of a misdemeanor of the third degree.
+
+  (ORC 4513.263)
