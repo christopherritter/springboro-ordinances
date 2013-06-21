@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "402.04 BICYCLE; MOTORIZED BICYCLE."
+title: "402&#46;04 BICYCLE; MOTORIZED BICYCLE."
 ---
 
 {{ page.title }}

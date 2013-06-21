@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "432&#46;27 DRIVING THROUGH SAFETY ZONE&#46;"
+title: "432&#46;27 DRIVING THROUGH SAFETY ZONE."
 ---
 
 {{ page.title }}

@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "402&#46;35 SCHOOL BUS&#46;"
+title: "402&#46;35 SCHOOL BUS."
 ---
 
 {{ page.title }}

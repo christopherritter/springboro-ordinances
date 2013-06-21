@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "840&#46;03 ESTABLISHMENT AND CLASSIFICATION OF BUSINESSES REGULATED&#46;"---
+title: "840&#46;03 ESTABLISHMENT AND CLASSIFICATION OF BUSINESSES REGULATED."---
 
 {{ page.title }}
 ----------------

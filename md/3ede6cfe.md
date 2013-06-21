@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "858.02 LICENSE REQUIRED; FEE; TERM."
+title: "858&#46;02 LICENSE REQUIRED; FEE; TERM."
 ---
 
 {{ page.title }}

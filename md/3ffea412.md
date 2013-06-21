@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "880&#46;14 ALLOCATION OF FUNDS&#46;"
+title: "880&#46;14 ALLOCATION OF FUNDS."
 ---
 
 {{ page.title }}

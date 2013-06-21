@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "474&#46;01 CODE APPLICATION TO BICYCLES AND MOTORIZED BICYCLES&#46;"---
+title: "474&#46;01 CODE APPLICATION TO BICYCLES AND MOTORIZED BICYCLES."---
 
 {{ page.title }}
 ----------------

@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "660&#46;15 DRAINING SLOPS&#46;"
+title: "660&#46;15 DRAINING SLOPS."
 ---
 
 {{ page.title }}

@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "1270&#46;23 FIRE HAZARDS&#46;"
+title: "1270&#46;23 FIRE HAZARDS."
 ---
 
 {{ page.title }}

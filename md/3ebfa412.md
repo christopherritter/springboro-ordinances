@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "856&#46;09 RENEWAL OF LICENSES&#46;"
+title: "856&#46;09 RENEWAL OF LICENSES."
 ---
 
 {{ page.title }}

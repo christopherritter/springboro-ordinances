@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "630&#46;11 BINGO OR GAME OF CHANCE RECORDS&#46;"
+title: "630&#46;11 BINGO OR GAME OF CHANCE RECORDS."
 ---
 
 {{ page.title }}

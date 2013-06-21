@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "618&#46;05 CRUELTY TO ANIMALS GENERALLY&#46;"
+title: "618&#46;05 CRUELTY TO ANIMALS GENERALLY."
 ---
 
 {{ page.title }}

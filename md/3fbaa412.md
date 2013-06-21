@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "880.08 POWERS AND DUTIES OF THE ADMINISTRATOR; ENFORCEMENT."---
+title: "880&#46;08 POWERS AND DUTIES OF THE ADMINISTRATOR; ENFORCEMENT."---
 
 {{ page.title }}
 ----------------

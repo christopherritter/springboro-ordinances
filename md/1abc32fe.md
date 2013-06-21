@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "286.02 MEETINGS; DUTIES."
+title: "286&#46;02 MEETINGS; DUTIES."
 ---
 
 {{ page.title }}

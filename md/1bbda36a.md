@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "402&#46;12 EXPLOSIVES&#46;"
+title: "402&#46;12 EXPLOSIVES."
 ---
 
 {{ page.title }}

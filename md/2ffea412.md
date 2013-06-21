@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "630.15 SKILL-BASED AMUSEMENT MACHINES."
+title: "630&#46;15 SKILL-BASED AMUSEMENT MACHINES."
 ---
 
 {{ page.title }}

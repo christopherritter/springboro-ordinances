@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "474&#46;06 RIDING BICYCLES UPON SIDEWALKS&#46;"
+title: "474&#46;06 RIDING BICYCLES UPON SIDEWALKS."
 ---
 
 {{ page.title }}

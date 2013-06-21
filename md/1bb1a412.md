@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "402&#46;09 CROSSWALK&#46;"
+title: "402&#46;09 CROSSWALK."
 ---
 
 {{ page.title }}

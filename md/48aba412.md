@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "1229&#46;09 MINIMUM MAINTENANCE REQUIREMENT&#46;"
+title: "1229&#46;09 MINIMUM MAINTENANCE REQUIREMENT."
 ---
 
 {{ page.title }}

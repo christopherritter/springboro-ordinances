@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "840&#46;06 INJUNCTION&#46;"
+title: "840&#46;06 INJUNCTION."
 ---
 
 {{ page.title }}

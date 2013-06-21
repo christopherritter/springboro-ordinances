@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "1246&#46;06 DEFERRAL OF REQUIRED IMPROVEMENTS&#46;"
+title: "1246&#46;06 DEFERRAL OF REQUIRED IMPROVEMENTS."
 ---
 
 {{ page.title }}

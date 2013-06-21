@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "1262.15 APPEALS.."
+title: "1262&#46;15 APPEALS.."
 ---
 
 {{ page.title }}

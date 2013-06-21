@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "630&#46;04 PUBLIC GAMING&#46;"
+title: "630&#46;04 PUBLIC GAMING."
 ---
 
 {{ page.title }}

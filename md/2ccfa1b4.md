@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "618&#46;57 PERMIT REQUIRED&#46;"
+title: "618&#46;57 PERMIT REQUIRED."
 ---
 
 {{ page.title }}

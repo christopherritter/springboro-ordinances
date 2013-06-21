@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "280&#46;07 CARE OF MONARCH TREES AND TREES ON PUBLIC PROPERTY&#46;"---
+title: "280&#46;07 CARE OF MONARCH TREES AND TREES ON PUBLIC PROPERTY."---
 
 {{ page.title }}
 ----------------

@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "1262.28 APPLICATION FOR CHANGE OF ZONING DISTRICTS; DEPOSIT."---
+title: "1262&#46;28 APPLICATION FOR CHANGE OF ZONING DISTRICTS; DEPOSIT."---
 
 {{ page.title }}
 ----------------

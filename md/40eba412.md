@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "1022&#46;06 FAILURE TO REMOVE EARTH MATERIAL DEPOSITED&#46;"---
+title: "1022&#46;06 FAILURE TO REMOVE EARTH MATERIAL DEPOSITED."---
 
 {{ page.title }}
 ----------------
