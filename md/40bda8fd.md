@@ -24,5 +24,3 @@ determined by the City.
 not an owner/developer has removed snow and ice in an acceptable and
 timely manner as well as the type of snow and ice removal method to be
 utilized. (Res. 94-115. Passed 12-15-94.)
-
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**

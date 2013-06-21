@@ -13,5 +13,3 @@ both. Each day that a violation continues shall be deemed a separate
 offense and shall be punishable as such hereunder.
 
 (Ord. 96-38. Passed 7-11-96.)
-
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
