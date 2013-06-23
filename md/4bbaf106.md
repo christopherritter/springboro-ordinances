@@ -5,15 +5,15 @@ title: "1248&#46;09 PRESERVATION OF NATURAL FEATURES AND AMENITIES."---
 {{ page.title }}
 ----------------
 
-​(a) General*.* Existing natural features that would add value to
+​(a) General. Existing natural features that would add value to
 residential development or to the City as a whole shall be preserved if
 practical in the design of the subdivision.
 
-​(b) Shade/Street Trees*.* Placement and size of trees shall comply with
+​(b) Shade/Street Trees. Placement and size of trees shall comply with
 the requirements of the Tree Authority regulations based on the type of
 tree.
 
-​(c) Monarch Trees*.* If a tree that has been designated a Monarch Tree
+​(c) Monarch Trees. If a tree that has been designated a Monarch Tree
 by the City is located on the site, the developer shall comply with the
 requirements of the Tree Authority regulations for Monarch Trees,
 Chapter [280](190dab57.html) of the Codified Ordinances.
@@ -36,7 +36,7 @@ Planning Commission, and shall conform to the proposed land use and
 standards established in the Comprehensive Plan and other adopted plans
 and policies of the City of Springboro.
 
-​(b) Standards*.* In addition to the principles and standards in these
+​(b) Standards. In addition to the principles and standards in these
 regulations, which are appropriate to the planning of all subdivisions,
 the applicant shall demonstrate to the satisfaction of the Planning
 Commission that the street, parcel, and block pattern proposed is
