@@ -33,9 +33,9 @@ Minimum standards for boundary surveys, monumentation – see Ohio R.C. 4733.37.03
 
 Institute of Transportation Engineers (ITE) Trip Generation Manual
 
-Flood hazard prevention – see B. &amp; H. Ch. [1448](57532eef.html)
+Flood hazard prevention – see B. &#38; H. Ch. [1448](57532eef.html)
 
-Zoning districts – see P. &amp; Z. Chap. [1264](4dade3b7.html)
+Zoning districts – see P. &#38; Z. Chap. [1264](4dade3b7.html)
 
 City of Springboro Standard Construction Drawings and Specifications
 

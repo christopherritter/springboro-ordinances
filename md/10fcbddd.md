@@ -14,7 +14,7 @@ Res. 29A  7-1-48  Purchase of .278 acres from Cozy Brehm Brown, for street purpo
 
 122A  7-16-54  Purchase of a well site from John R. Fish, Sr. and John R. Fish, Jr., for the waterworks system.
 
-129A  6-18-55  Requests the Provident Savings Bank &amp; Trust Co. to release certain Village property from the effect of a mortgage.
+129A  6-18-55  Requests the Provident Savings Bank &#38; Trust Co. to release certain Village property from the effect of a mortgage.
 
 Res. 125A  6-6-57  Authorizes an option to purchase, on behalf of the Village, between the Village and Courtney L. and Flossie Chapman.
 

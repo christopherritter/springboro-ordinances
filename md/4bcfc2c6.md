@@ -16,8 +16,8 @@ title: "CHAPTER 1250 Specifications for Documents Submitted"
 
 CROSS REFERENCES
 
-General improvements, street and subdivision names – see P. &amp; Z. [1248.01](4b011158.html)(e)
+General improvements, street and subdivision names – see P. &#38; Z. [1248.01](4b011158.html)(e)
 
 Minimum standards for boundary surveys, monumentation – see Ohio R.C. 4733.37.03
 
-General improvements, monuments – see P. &amp; Z. [1248.01](4b011158.html)(c)
+General improvements, monuments – see P. &#38; Z. [1248.01](4b011158.html)(c)
