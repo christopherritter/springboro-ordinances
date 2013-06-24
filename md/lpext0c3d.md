@@ -1,18 +1,10 @@
 ---
 layout: default 
-title: "[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html) "
+title: "CHAPTER 434 OVI; Willful Misconduct; Speed"
 ---
 
 {{ page.title }}
 ----------------
-
-[PART FOUR - TRAFFIC CODE](1b19a412.html)
-
-[TITLE SIX - Vehicles and Operation](1ecba412.html)
-
-[CHAPTER 434 OVI; Willful Misconduct; Speed](2080a412.html)
-
----
 
 [434.01 DRIVING OR PHYSICAL CONTROL WHILE UNDER THE INFLUENCE;
 EVIDENCE.](209ca412.html)

@@ -770,7 +770,7 @@ CATTLE (see ANIMALS)
 
 CELL PHONE
 
-*** ***texting while driving 
+ texting while driving 
 
 prohibited   [434.11](21dfe5f3.html)
 
@@ -1554,7 +1554,7 @@ drunk or drugged   [434.01](209cd826.html)
 
 earplugs prohibited   [432.40](207065de.html)
 
-*** ***electronic wireless communication
+ electronic wireless communication
 
    device use prohibited 
 
@@ -1754,7 +1754,7 @@ gift   [624.02](2d929e1d.html)
 
 illegal cultivation  [ 624.06](2dc79491.html)
 
-***  ***paraphernalia [624.121](2e33a4bd.html)
+paraphernalia [624.121](2e33a4bd.html)
 
 possession or use   [624.03](2d9acddb.html)
 
@@ -2296,7 +2296,7 @@ directing traffic  [ 404.06](1cd9f461.html)
 
 FIREPLACE, PORTABLE
 
-   OUTDOOR*** [1630.05](5b85110b.html)
+   OUTDOOR** [1630.05](5b85110b.html)
 
 FIRE PREVENTION CODE, BOCA BASIC
 
@@ -4533,7 +4533,7 @@ prohibited   [ 648.01](34b065a4.html)
 
 ROAD SERVICE VEHICLE
 
-*** ***approaching [434.10](21d31cc2.html)
+ approaching [434.10](21d31cc2.html)
 
 defined   [402.321](1c318a5b.html)
 
@@ -5499,7 +5499,7 @@ TEMPORARY PROTECTION
 
 TEXTING
 
-*** ***prohibited while driving [434.11](21dfe5f3.html)
+ prohibited while driving [434.11](21dfe5f3.html)
 
 THEFT
 
@@ -5621,7 +5621,7 @@ defined    [402.46](1c67228d.html)
 
 hidden   [414.07](1dec3457.html)
 
-*** ***highway traffic signal  [402.161](1bd2955c.html)
+ highway traffic signal  [402.161](1bd2955c.html)
 
 lane-use control 
 

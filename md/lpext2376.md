@@ -1,18 +1,10 @@
 ---
 layout: default 
-title: "[CODIFIED ORDINANCES OF SPRINGBORO, OHIO](index.html) "
+title: "CHAPTER 230 Manager"
 ---
 
 {{ page.title }}
 ----------------
-
-[PART TWO - ADMINISTRATION CODE](1505a412.html)
-
-[TITLE SIX - Administration](16eba412.html)
-
-[CHAPTER 230 Manager](16f8a412.html)
-
----
 
 [230.01 MANAGER IS PLANNING DIRECTOR.](170ea412.html)
 
